@@ -17,7 +17,7 @@ A **digital creative**, **hybrid designer** & **front-end developer** with over 
 ### Contract Product Designer / Lead Developer, Wings & Roots [02/2015 – 08/2016]
 * Designed, developed, and delivered *Reimagine Belonging* educational website
 * Reevaluated and redesigned UI/UX
-* Refined invofrmation architecture
+* Refined information architecture
 * Developed front and back-end
 * Set up repositories, production and staging servers
 * Implemented distributed app (LEMP Stack, Digital Ocean, AWS S3/CloudFront)
