@@ -3,9 +3,9 @@
 
 **Available immediately** for contract/freelance work.
 
-A **digital creative**, **hybrid designer** & **front-end developer** with over 14 years of experience. Passionate about thoughtfully designed digital products, lean workflows, and projects that popularise science.
+A **digital creative**, **hybrid designer** & **front-end developer** with over 14 years of experience, passionate about thoughtfully designed digital products, lean workflows, and projects that popularise science.
 
-**Design skills:** Product Design, UI/UX Design, Concept & Prototype Design   
+**Design skills:** Product Design, UI/UX Design, Concept & Prototype Design  
 **Front-end stack:** Git, npm, Bower, Composer, Gulp, Stylus/Less, Pug (Jade), AngularJS
 
 :telephone_receiver: +49 (0) 1525 5709103  
