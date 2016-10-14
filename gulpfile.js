@@ -40,7 +40,7 @@ gulp.task('default', function() {
         <style>
           @media print {
             html {
-              zoom: 0.6; /*workaround for phantomJS2 rendering pages too large*/
+              zoom: 0.58; /*workaround for phantomJS2 rendering pages too large*/
             }
           }
           .markdown-body {
@@ -79,7 +79,7 @@ gulp.task('default', function() {
   .pipe(html2pdf({
     format: 'A4',
     orientation: 'portrait',
-    border: '19mm',
+    border: '18mm',
   }))
   .pipe(gulp.dest('.'))
 });
