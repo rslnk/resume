@@ -1,16 +1,19 @@
 # Ruslan Komjakov
-**Works:** [http://komyakov.me](http://komyakov.me/)
 
 **Available immediately** for contract/freelance work.
 
-A digital creative, design / web technology blade runner with over 14 years of experience in producing ToI. Passionate about thoughtfully designed digital products and projects that popularise science.
+A digital creative, design / web technology blade runner with over 14 years of 
+experience in producing ToI. Passionate about thoughtfully designed digital products and projects that popularize science.
 
-**Skills:** Product Design, Visual Design, UI/UX Design, Art Direction, Front-end development  
-**Front-end stack:** Git, npm, Bower, Composer, Gulp, Stylus/Less, Pug (Jade), AngularJS
+**Website:** [komyakov.me](http://komyakov.me/)
 
 :telephone_receiver: +49 (0) 1525 5709103  
 :envelope: ruslan@komyakov.me  
 :link: [linkedin.com/in/ruslankomjakov](https://www.linkedin.com/in/ruslankomjakov)
+
+## Skills 
+`Product Design` • `Visual Design` • `UI Design` • `UX Design` • `Interaction Design` • `Art Direction`  
+`Front-end Development` • `HTML` • `CSS` • `JavaScript` • `AngularJS` • `PHP` • `Git` • `Gulp` • `npm`
 
 ## Experience
 
@@ -80,7 +83,7 @@ A non-profit educational project and a web-based tool for discussion about the h
 #### Project Lead, Creative Director
 A tribute to the historical NASA's New Horizons mission, Discovering Pluto is an open source interactive timeline, that tells a story of the discovery of Pluto, — a dwarf planet on the edge of the Solar System. The goal of the project is to popularize scientific knowledge and to inspire further space exploration.
 
-**Keywords:** Project Management, Art Direction, Prototyping, Graphic Design, Social Media Strategy
+**Keywords:** Project Management, Art Direction, Prototyping, Visual Design, Social Media Strategy
 
 [View project](http://komyakov.me/discovering-pluto) |
 [GitHub](https://github.com/rslnk/discovering-pluto)
@@ -98,7 +101,7 @@ The LDC Hotels Group website provides information and booking options for compan
 #### Art Director, Graphic & UI Designer
 Flykk is a mobile app platform for location-based games on iPhone and Android. I was hired by Future Industries Inc. to develop *Flykk's* visual concept. In 2015 I co-presented the app at Collision tech conference in Las Vegas.
 
-**Keywords:** Graphic Design, UI Design
+**Keywords:** Visual Design, UI Design
 
 [View project](http://komyakov.me/flykk)
 
@@ -112,4 +115,6 @@ An online astronomy news site, Big Universe is one of the largest Russian langua
 [Website](http://biguniverse.ru)
 
 ## Keywords
-Product Design, Art Direction, Visual Design, UI/UX Design, Concept Design, Prototype Design, Information Architecture, Content Strategy, Continual Improvement, Critical Thinking, Front-end Development, HTML, CSS, JavaScript, PHP, Composer, WordPress, REST API, Capistrano, Git
+*Design and development synthesis, Pixel-perfect visual designs, User Interface 
+Design, User Experience Design, Interaction Design, Concept Design, Information architecture, Cross-functional leadership, Continual improvement, 
+Critical-thinking, Problem-solving, Art Direction, Creative Direction*

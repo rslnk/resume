@@ -40,7 +40,7 @@ gulp.task('default', function() {
         <style>
           @media print {
             html {
-              zoom: 0.57; /*workaround for phantomJS2 rendering pages too large*/
+              zoom: 0.55; /*workaround for phantomJS2 rendering pages too large*/
             }
           }
           .markdown-body {
