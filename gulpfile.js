@@ -1,7 +1,6 @@
 const fs = require('fs');
 const gulp = require('gulp');
 const gutil = require('gulp-util');
-// const html2pdf = require('gulp-html2pdf');
 const html2pdf = require('gulp-html-pdf');
 const markdown = require('github-markdown-render');
 const plumber = require('gulp-plumber');
@@ -40,12 +39,12 @@ gulp.task('default', function() {
         <style>
           @media print {
             html {
-              zoom: 0.57; /*workaround for phantomJS2 rendering pages too large*/
+              zoom: 0.53; /*workaround for phantomJS2 rendering pages too large*/
             }
           }
           .markdown-body {
             box-sizing: border-box;
-            min-width: 200px;
+            min-width: 380px;
             max-width: 900px;
             margin: 0 auto;
             padding: 15px;
@@ -81,5 +80,6 @@ gulp.task('default', function() {
     orientation: 'portrait',
     border: '18mm',
   }))
+  
   .pipe(gulp.dest('.'))
 });
