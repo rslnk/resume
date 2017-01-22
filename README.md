@@ -23,7 +23,7 @@ Passionate about thoughtfully designed digital products, storytelling, and proje
 
 *   Led redesign and development of educational website [*Reimagine Belonging*](https://reimaginebelonging.org) and satellite products
 *   Co-presented the project at GoogleTalks, YouTube, Humanity In Action, and DOK Leipzig Film Festival
-*   Refactored information architecture, page flows, and sitempas
+*   Refactored information architecture, page flows, and sitemaps
 *   Completely redesigned legacy user interface to improve user experience
 *   Created brand new cross-product visual language
 *   Conceptualized and designed public installations
@@ -61,7 +61,7 @@ Passionate about thoughtfully designed digital products, storytelling, and proje
 *   Produced corporate identities, visual guidelines, and print materials
 *   Produced interactive Flash websites and animations (ActionScript 2.0)
 *   Conceptualized, designed, and art directed advertising and digital marketing campaigns
-*   Produced advertisment materials for Salomon brand local market
+*   Produced advertisement materials for Salomon brand local market
 *   Directed freelance designers, illustrators, and copywriters
 *   Co-developed concept and co-produced a social platform *Vaatamind*
 
