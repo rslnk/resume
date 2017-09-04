@@ -16,14 +16,16 @@ A Product Designer with a strong focus on user experience and design aesthetic. 
 
 ## Work Experience
 
-### User Experience Designer (Contract) – Lykon [Apr 2017 – Sep 2017]
+### User Experience Designer (Contract) – Lykon
+[Apr 2017 – Sep 2017]
 
 *   Developed brand new concept for user onboarding (in order to bridge the gap between physical and digital product and avoid null-state app)
 *   Conducted user interviews in order to identify current pain points (dashboard usability)
 *   Produced user flow maps, wireframes, and mid-fidelity prototypes
 *   Initiated design system implementation and design/front-end workflow improvements
 
-### Product Designer – Reimagine Belonging [Feb 2015 – Aug 2017]
+### Product Designer – Reimagine Belonging
+[Feb 2015 – Aug 2017]
 
 *   Redesigned UX of the educational website [reimaginebelonging.org](https://reimaginebelonging.org)
 *   Redesigned legacy user interface and created brand new cross-product visual language
@@ -31,7 +33,8 @@ A Product Designer with a strong focus on user experience and design aesthetic. 
 *   Implemented and maintained project's open source repositories and documentation
 *   Presented the project at GoogleTalks, YouTube, Humanity In Action, and DOK Leipzig Film Festival
 
-### UI/UX Designer (Freelance) [Apr 2011 – Dec 2014]
+### UI/UX Designer (Freelance)
+[Apr 2011 – Dec 2014]
 
 *   Developed visual language and UI for a location-based gaming app Flykk
 *   Designed and developed mobile-first websites (from promotional micro-sites to large-scale websites)
@@ -40,7 +43,8 @@ A Product Designer with a strong focus on user experience and design aesthetic. 
 *   Executed mobile-first front-end development (HTML5, CSS3, jQuery, GSAP animation)
 *   Presented the Flykk app at Collision tech conference in Las Vegas in 2015
 
-### Digital Designer / Art Director (Contract) – Versio2 [Dec 2010 – 03 2012]
+### Digital Designer / Art Director (Contract) – Versio2
+[Dec 2010 – 03 2012]
 
 *   Designed medium and large-scale websites, microsites, and landing pages
 *   Partnered with Senior UX Designer to develop wireframes and prototypes
@@ -49,14 +53,16 @@ A Product Designer with a strong focus on user experience and design aesthetic. 
 *   Designed and art directed digital campaigns
 *   Directed and mentored junior designers
 
-### Art Director – MediaWorks [May 2006 – Jan 2010]
+### Art Director – MediaWorks
+[May 2006 – Jan 2010]
 
 *   Delivered—from concept to production—business and e-commerce websites, interactive microsites
 *   Produced interactive Flash websites and animations (ActionScript 2.0)
 *   Produced corporate identities, visual guidelines, and print materials
 *   Conceptualized, designed, and art directed advertising and digital marketing campaigns
 
-### Web Designer – Custom Media Agency [Apr 2004 – May 2006]
+### Web Designer – Custom Media Agency
+[Apr 2004 – May 2006]
 
 *   Designed medium and large-scale websites for Estonia's largest web design agency
 *   Worked closely with engineers designing user interfaces for CMS and various intranets
