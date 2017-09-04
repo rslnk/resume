@@ -8,7 +8,7 @@ A Product Designer with a strong focus on user experience and design aesthetic. 
 
 :telephone_receiver: +49 (0) 1525 5709103  
 :envelope: ruslan@komyakov.me  
-:link: [linkedin.com/in/ruslankomjakov](https://www.linkedin.com/in/ruslankomjakov)
+:bust_in_silhouette: [linkedin.com/in/ruslankomjakov](https://www.linkedin.com/in/ruslankomjakov)
 
 ## Specialties
 
