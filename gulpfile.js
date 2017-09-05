@@ -39,7 +39,7 @@ gulp.task('default', function() {
         <style>
           @media print {
             html {
-              zoom: 0.53; /*workaround for phantomJS2 rendering pages too large*/
+              zoom: 0.59; /*workaround for phantomJS2 rendering pages too large*/
             }
           }
           .markdown-body {
@@ -53,7 +53,8 @@ gulp.task('default', function() {
             width: 1em;
           }
           g-emoji {
-            padding-right: 8px;
+            padding-right: 20px;
+            margin-bottom: 10px;
           }
           ${css}
         </style>
@@ -78,8 +79,8 @@ gulp.task('default', function() {
   .pipe(html2pdf({
     format: 'A4',
     orientation: 'portrait',
-    border: '18mm',
+    border: '20mm',
   }))
-  
+
   .pipe(gulp.dest('.'))
 });
