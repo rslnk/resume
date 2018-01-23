@@ -29,7 +29,7 @@ Self-educated digital craftsman. Product design specialist, interested in Design
 
 ### Product Designer – Reimagine Belonging `[02/2015–08/2016]`
 
-*   Refactored information architecture and UX for the educational website
+*   Refactored information architecture and UX for an educational website
 *   Designed new UI and created brand new cross-product visual language
 *   Conceptualized and designed public pop-up installations
 *   Implemented and maintained open source repositories and documentation
