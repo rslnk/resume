@@ -10,7 +10,7 @@
   "devDependencies": {
     "github-markdown-css": "^2.4.1",
     "github-markdown-render": "^2.1.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-html-pdf": "^0.3.0",
     "gulp-plumber": "^1.1.0",
     "gulp-tap": "^0.1.3",

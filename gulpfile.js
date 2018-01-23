@@ -39,21 +39,26 @@ gulp.task('default', function() {
         <style>
           @media print {
             html {
-              zoom: 0.59; /*workaround for phantomJS2 rendering pages too large*/
+              zoom: 0.5; /*workaround for phantomJS2 rendering pages too large*/
             }
           }
           .markdown-body {
             box-sizing: border-box;
-            min-width: 380px;
             max-width: 900px;
             margin: 0 auto;
             padding: 15px;
+          }
+          .markdown-body code {
+            line-height: 2.2em !important;
+          }
+          .markdown-body hr {
+            height: 2px !important;
           }
           .emoji {
             width: 1em;
           }
           g-emoji {
-            padding-right: 20px;
+            padding-right: 10px;
             margin-bottom: 10px;
           }
           ${css}
@@ -79,7 +84,7 @@ gulp.task('default', function() {
   .pipe(html2pdf({
     format: 'A4',
     orientation: 'portrait',
-    border: '20mm',
+    border: '18mm',
   }))
 
   .pipe(gulp.dest('.'))
