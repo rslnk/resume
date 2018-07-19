@@ -1,6 +1,6 @@
 # :construction_worker: Ruslan Komjakov
 
-Product Designer (UX/UI) available **immediately** for contract/freelance work in Berlin.
+Product/Service Designer available **immediately** for contract/freelance work in Berlin.
 
 :wave: +49 (0) 1525 5709103  
 :envelope: ruslan@komyakov.me  
@@ -10,13 +10,22 @@ Product Designer (UX/UI) available **immediately** for contract/freelance work i
 
 Self-educated digital craftsman. Product design specialist, interested in Design Thinking and Lean UX methodologies. Passionate about smart digital products and beautiful UI.
 
-> Ruslan is a fantastic UX designer. — [Sándor Akszenovics](https://www.linkedin.com/in/sandorakszenovics/), Product Owner
+> Ruslan is a fantastic user experience designer. — [Sándor Akszenovics](https://www.linkedin.com/in/sandorakszenovics/), Product Owner
 
 ## Specialties
 
-`Design Thinking` • `Lean UX` • `User Research` • `Prototyping` • `User Journey Mapping` • `UI & Visual Design` • `Adobe XD` • `Sketch` • `InVision`
+`Innovation and Discovery` • `Design Thinking` • `Lean UX` • `User Research` • `User Journey Mapping` • `Prototyping` • `User Interface Design`
 
 ## Work Experience
+
+### Lead Product Designer (Contract) – Quandoo `[02/2018–08/2018]`
+
+*   Lead discovery, inception, and design of the new product
+*   Conducted qualitative and quantitative research
+*   Facilitated discovery workshops
+*   Designed unique value proposition for B2C and B2B customers
+*   Designed service blueprint and experience maps
+*   Designed user flows for MVP
 
 ### User Experience Designer (Contract) – Lykon `[04/2017–09/2017]`
 
