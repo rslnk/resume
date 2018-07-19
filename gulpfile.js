@@ -58,8 +58,7 @@ gulp.task('default', function() {
             width: 1em;
           }
           g-emoji {
-            padding-right: 10px;
-            margin-bottom: 10px;
+            margin-bottom: 5px;
           }
           ${css}
         </style>
