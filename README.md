@@ -16,14 +16,14 @@ A product design specialist and innovation enthusiast passionate about smart pro
 
 `Product Discovery and Ideation` • `Design Thinking` • `Lean UX` • `User Research` • `User Journey Mapping` • `Rapid Prototyping` • `User Interface Design` • `Storyboarding`
 
-## Work Experience
+## Work experience
 
-### Senior Product Designer (Contract) – `[02/2018–08/2018]`
+### Senior Product Designer (contract) – `[02/2018–08/2018]`
 
 **Client:** Quandoo   
 **Category:** Restaurant tech, marketplace
 
-*Leading a new product discovery and design*
+*Leading discovery and design of a new product*
 
 *   Conducted foundational research (B2C/B2B)
 *   Designed value proposition for B2C and B2B customers
@@ -31,7 +31,7 @@ A product design specialist and innovation enthusiast passionate about smart pro
 *   Initiated and facilitated problem framing and ideation workshops
 *   Helped to define MVP and designed user flows
 
-### User Experience Designer (Contract) – `[04/2017–09/2017]`
+### User Experience Designer (contract) – `[04/2017–09/2017]`
 
 **Client:** Lykon   
 **Category:** Health tech, SaaS
@@ -44,9 +44,9 @@ A product design specialist and innovation enthusiast passionate about smart pro
 *   Conducted usability tests
 *   Designed and validated prototypes   
 
-### UX/UI Product Designer (Contract) – `[02/2015–08/2016]`
+### UX/UI Product Designer (contract) – `[02/2015–08/2016]`
 
-**Client:** Wings and Roots
+**Client:** Wings and Roots  
 **Category:** Education, nonprofit
 
 *Designed educational interactive website that was selected by DOK Leipzig Film Festival and The New School exhibitions. Presented the project at GoogleTalks, YouTube, and Humanity In Action*
@@ -57,18 +57,18 @@ A product design specialist and innovation enthusiast passionate about smart pro
 *   Designed interactive pop-up installations
 *   Presented the project
 
-### UX/UI Designer (Freelance) – `[04/2010–12/2014]`
+### Freelance UX/UI Designer – `[04/2010–12/2014]`
 
-*Provided design expertise to digital agencies and startup product teams*
+*Provided my design expertise to digital agencies and startup product teams*
 
-*   Designed information architecture and wireframes for e-commerce websites, web, and mobile apps
+*   Designed information architecture and wireframes for e-commerce websites, web and mobile apps
 *   Produced mockups and prototypes
 *   Designed user interfaces, icons, and other visual deliverables
 *   Worked closely with PMs and engineers both on site and in distributed teams
 
 ---
 
-**:information_desk_person: Want more experience?...** *I aim to keep this list relevant and short. For information about my work experience before 2010 please, contact me at ruslan@komyakov.me.*
+**:information_desk_person: More work experience?...** *I aim to keep this list relevant and short. For information about my work experience before 2010 please, contact me at ruslan@komyakov.me.*
 
 <!-- ### Art Director/Web Designer, Co-founder – Mediaworks `[05/2006–01/2010]`
 
@@ -89,9 +89,9 @@ A product design specialist and innovation enthusiast passionate about smart pro
 ## Accomplishments
 
 *   Product Design Course – Udacity `[07/2018]`
-*   Design Sprints Facilitation Workshop– John Vetan/inVision `[04/2018]`
-*   Service Design Workshop — Global Service Jam `[03/2018]`
+*   Design Sprints Facilitation Workshop – John Vetan/inVision `[04/2018]`
+*   Service Design Workshop – Global Service Jam `[03/2018]`
 
-## Skills/Keywords
+## Skills (as keywords)
 
 *Agile, Adobe XD, B2B, B2C, High-level Concept Design, Customer Experience Design, Design Thinking, Design Sprint, Discovery and Ideation Workshop, Foundational Research, InVision Studio, Lean UX, Lean Product, Market Research, Rapid Prototyping, Problem Framing, Problem Solving, Product Design,  Service Design, Sketch, User Interface Design, User Journey Mapping, Usability testing, UX Research, Validation Testing, Value Proposition Design, Visual Design, Qualitative Research, Quantitative Research, Workshop Facilitation*
