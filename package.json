@@ -2,15 +2,14 @@
   "name": "resume",
   "repository": {
     "type": "git",
-    "license": "MIT",
-    "url": "https://github.com/rslnk/resume.git"
+    "url": "git+https://github.com/rcambrj/resume.git"
   },
   "author": "ruslan@komyakov.me",
   "homepage": "https://github.com/rslnk/resume",
   "devDependencies": {
-    "github-markdown-css": "^2.4.1",
+    "github-markdown-css": "^2.3.0",
     "github-markdown-render": "^2.1.0",
-    "gulp": "^4.0.0",
+    "gulp": "^3.9.1",
     "gulp-html-pdf": "^0.3.0",
     "gulp-plumber": "^1.1.0",
     "gulp-tap": "^0.1.3",

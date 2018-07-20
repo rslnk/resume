@@ -9,6 +9,7 @@ const through = require('through2')
 
 // Gulpt task is borrowed from Robert Cambridge
 // https://github.com/rcambrj/resume/blob/gh-pages/gulpfile.js
+
 gulp.task('default', function() {
   return gulp.src('README.md')
   .pipe(plumber())
@@ -37,28 +38,31 @@ gulp.task('default', function() {
       new Buffer(`
         <!DOCTYPE html><html><head><meta charset="utf-8">
         <style>
+          @import url('https://fonts.googleapis.com/css?family=Roboto');
           @media print {
             html {
-              zoom: 0.5; /*workaround for phantomJS2 rendering pages too large*/
+              zoom: 0.57; /*workaround for phantomJS2 rendering pages too large*/
             }
           }
           .markdown-body {
             box-sizing: border-box;
-            max-width: 900px;
+            min-width: 200px;
+            max-width: 840px;
             margin: 0 auto;
             padding: 15px;
+            font-family: 'Roboto', 'Helvetica', sans-serif !important;
           }
-          .markdown-body code {
-            line-height: 2.2em !important;
+          .markdown-body h5 {
+            margin-top: -5px !important;
+            margin-bottom: 20px !important;
+            font-weight: 300 !important;
+            color: #696969 !important;
           }
           .markdown-body hr {
             height: 2px !important;
           }
           .emoji {
             width: 1em;
-          }
-          g-emoji {
-            margin-bottom: 5px;
           }
           ${css}
         </style>
@@ -75,16 +79,17 @@ gulp.task('default', function() {
   .pipe(gulp.dest('.'))
   .pipe(tap(file => {
     // fix emojis for PDF render
+
     // todo: can the g-emoji element be registered in the page's javascript?
     const original = file.contents.toString();
     const mangled = original.replace(/<g-emoji .*alias="([^"]+)".*fallback-src="([^"]+)".*>.*<\/g-emoji>/g, '<img class="emoji $1" src="$2" />');
     file.contents = new Buffer(mangled);
   }))
   .pipe(html2pdf({
+    //printMediaType: true
     format: 'A4',
     orientation: 'portrait',
-    border: '18mm',
+    border: '20mm'
   }))
-
   .pipe(gulp.dest('.'))
 });
