@@ -1,99 +1,88 @@
-# Ruslan Komjakov :sparkles: :wave:
+# Ruslan Komjakov
 
-Product Designer available **immediately** for contract work.
+*Is your team solving the right challenge?*  :sparkles:
 
-> Ruslan is a fantastic user experience designer 👏 — [Sándor Akszenovics](https://www.linkedin.com/in/sandorakszenovics/), Product Owner (Lykon)
+Product design and innovation consultant employing user-centric design methods to help teams focus on the right problems and build better products faster. Available **immediately** for contract work in Berlin.
 
-A product design specialist and innovation enthusiast passionate about smart products, user-centric design,  
-and lean UX methodologies. I help companies to discover new opportunities, assess ideas, understand the user, and test their riskiest assumptions.
+> "Ruslan never stops challenging things!" — Team member (Circ)  
+> "Always asking the right questions." — [Luigi Ianni](https://www.linkedin.com/in/luiginoianni/), PM (Quandoo)  
+> "A fantastic user experience designer." — [Sándor Akszenovics](https://www.linkedin.com/in/sandorakszenovics/), PO (Lykon)  
 
-<!-- 📞 +49 1525 5709103   -->
-✉️ ruslan@komyakov.me  
-💼 [linkedin.com/in/ruslankomjakov](https://www.linkedin.com/in/ruslankomjakov)
-
-## Specialties
-
-`Product Discovery and Ideation` • `Design Thinking` • `Lean UX` • `User Research` • `User Journey Mapping` `Rapid Prototyping` • `Storyboarding` • `User Interface Design`
+:iphone:  +49 1525 5709103   
+:envelope:  ruslan@komyakov.me  
+:link:  [linkedin.com/in/ruslankomjakov](https://www.linkedin.com/in/ruslankomjakov)
 
 ## Experience
 
-### Senior Product Designer, Quandoo (Contract) – `[02/2018–08/2018]`
+`Design Sprint Facilitation`• `Problem Framing` • `Discovery & Ideation Workshops` • `Concept Testing` • `User Journey Mapping` • `User Research` • `Rapid Prototyping` • `Value Proposition Design`
 
-<!-- ##### **Client:** Quandoo   -->
-##### Restaurant tech, marketplace, b2b, b2c
+### Product Designer at [Circ](https://www.linkedin.com/company/wecirc/) – [01/2018–10/2019]
 
-*Leading discovery and design of a new product*
+`Mobility`
 
-*   Conducted foundational research (B2C/B2B)
-*   Designed value proposition for B2C and B2B customers
-*   Designed experience maps and service blueprints
-*   Initiated and facilitated problem framing and ideation workshops
-*   Helped to define MVP and designed user flows
+*   Created mobile solutions that enabled business operations across EU markets and the Middle East
+*   Conducted field research to understand the immediate user needs and ways to improve operations efficiency
+*   Organized and facilitated product discovery and innovation workshops
+*   Worked closely with PMs to define MVPs and products' strategies
+*   Collaborated closely with Country Managers to ensure products are serving business needs
+*   Pushed forward product experiments and concepts tests (e.g., automated task assignment, innovative swappable batteries service, etc.)
+*   Helped to integrate the discovery process into the development cycle
 
-### User Experience Designer, Lykon (Contract) – `[04/2017–09/2017]`
+### Product Designer at [Quandoo](https://www.linkedin.com/company/quandoo/) – [02/2018–08/2018]
 
-<!-- ##### **Client:** Lykon   -->
-##### Health tech, SaaS, b2c
+`Restaurant tech`
 
-*Designed customer onboarding experience and helped to improve B2C product*
+*   Led the discovery and design stages of an innovative payment solution for restaurants
+*   Conducted foundational research in European and UK markets
+*   Developed a value proposition for B2C and B2B customers
+*   Designed a service blueprint and created experience maps
+*   Facilitated numerous Design Sprints and problem framing workshops
 
-*   Conceptualized and designed user onboarding
-*   Mapped customer journey and designed user flows
-*   Defined personas and conducted qualitative user research
+### User Experience Designer at [Lykon](https://www.linkedin.com/company/lykon/) – [04/2017–09/2017]
+
+`HealthTech`
+
+*   Designed a brand new user onboarding experience
+*   Conducted qualitative user research and defined personas
 *   Conducted usability tests
-*   Designed and validated prototypes   
+*   Mapped customers journeys and user flows
+*   Designed and validated prototypes
 
-### UX/UI Product Designer, reimaginebelonging.org – `[02/2015–08/2016]`
+### UX/UI Designer at [reimaginebelonging.org](https://reimaginebelonging.org) – [01/2015–10/2016]
 
-<!-- ##### **Client:** Wings and Roots   -->
-##### Education, nonprofit
+`Education`
 
-*Designed educational interactive website that was selected by DOK Leipzig Film Festival and The New School exhibitions. Presented the project at GoogleTalks, YouTube, and Humanity In Action*
-
-*   Redesigned information architecture
-*   Designed new user interface and visual style
-*   Implemented and maintained open source repositories and documentation
+*   Redesigned information architecture and improved user experience
+*   Designed a new user interface and visual style
+*   Implemented and maintained open-source repositories and documentation
 *   Designed interactive pop-up installations
 
-### Freelance UX/UI Designer – `[04/2010–12/2014]`
+##### *The interactive educational website was selected by DOK Leipzig Film Festival and The New School exhibition. The project was presented at GoogleTalks, YouTube HQ, and Humanity In Action*
 
-##### SaaS, marketplace, b2c, b2b
+### Freelance UX/UI Designer – [01/2011–01/2015]
 
-*Provided my design expertise to digital agencies and startup product teams*
+`Various industries`
 
+*   Provided the design expertise to digital agencies and startup product teams
 *   Designed information architecture and wireframes for e-commerce websites, web and mobile apps
 *   Produced mockups and prototypes
 *   Designed user interfaces, icons, and other visual deliverables
-*   Worked closely with PMs and engineers both on site and in distributed teams
+*   Worked closely with PMs and engineers both on-site and in distributed teams
 
-<br/>
+## Need more experience? :information_desk_person:
 
-**💁 More work experience?...** *I aim to keep this list relevant and short. For information about my work experience before 2010 please, contact me at ruslan@komyakov.me.*
+*   UX/UI Designer at Versio2 Agency — [2010–2011]
+*   Co-Founder at Skyplex International – [2007–2009]
+*   Art Director at Mediaworks – [2006–2010]
+*   Web Designer at Custom Media Agency (CMA) – [2004–2006]
 
-<br/>
+## Keeping up-to-date / Self-education
 
-<!-- ### Art Director/Web Designer, Co-founder – Mediaworks `[05/2006–01/2010]`
+*   Business Model Design Certificate – Strategyzer, Berlin [08/2018]
+*   Product Design Course – Udacity [07/2018]
+*   Design Sprints Facilitation Workshop certificate – inVision / DSA [04/2018]
+*   Service Design Workshop – Global Service Jam [03/2018]
 
-*   Produced business and e-commerce websites, interactive microsites, and social platforms
-*   Worked closely with engineers to achieve desired results
-*   Produced interactive Flash websites and animations
-*   Designed corporate identities, visual guidelines, and print materials
-*   Conceptualized and designed advertising and digital marketing campaigns
+#### Other keywords
 
-### Web Designer – Custom Media Agency `[04/2004–05/2006]`
-
-*   Designed medium and large-scale websites for Estonia's largest web design agency
-*   Designing user interfaces for CMSs and intranets
-*   Produced interactive Flash animations (ActionScript 2.0)
-*   Designed corporate identities, advertising campaigns, and print materials
-*   Designed the Estonian Academy Of Arts website -->
-
-## Accomplishments
-
-*   Product Design Course – Udacity `[07/2018]`
-*   Design Sprints Facilitation Workshop – John Vetan/inVision `[04/2018]`
-*   Service Design Workshop – Global Service Jam `[03/2018]`
-
-## Skills (as keywords)
-
-*Agile, Adobe XD, B2B, B2C, High-level Concept Design, Customer Experience Design, Design Thinking, Design Sprint, Discovery and Ideation Workshop, Foundational Research, InVision Studio, Lean UX, Lean Product, Market Research, Rapid Prototyping, Problem Framing, Problem Solving, Product Design,  Service Design, Sketch, User Interface Design, User Journey Mapping, Usability testing, UX Research, Validation Testing, Value Proposition Design, Visual Design, Qualitative Research, Quantitative Research, Workshop Facilitation*
+##### *`Agile`, `B2B`, `B2C`, `Concept Design`, `Customer Experience Design`, `Design Thinking`, `Design Sprint`, `Discovery and Ideation Workshop`, `Lean UX`, `Lean Product`, `Market Research`, `Rapid Prototyping`, `Problem Framing`, `Problem Solving`, `Product Design`, `Service Design`, `Strategic Design`, `User Interface Design`, `User Journey Mapping`, `Usability Testing`, `UX Research,` `Validation Testing`, `Value Proposition Design`, `Visual Design`, `Qualitative Research`, `Quantitative Research`,` Workshop Facilitation`*

@@ -1,14 +1,29 @@
 const fs = require('fs');
 const gulp = require('gulp');
 const gutil = require('gulp-util');
-const html2pdf = require('gulp-html-pdf');
+const html2pdf = require('gulp-html2pdf');
 const markdown = require('github-markdown-render');
 const plumber = require('gulp-plumber');
 const tap = require('gulp-tap');
-const through = require('through2')
+const through = require('through2');
+const JSDOM = require('jsdom').JSDOM;
+const emoji = require('emoji');
 
 // Gulpt task is borrowed from Robert Cambridge
 // https://github.com/rcambrj/resume/blob/gh-pages/gulpfile.js
+
+const fixEmojis = original => {
+  const dom = new JSDOM(original);
+  const emojiNodes = dom.window.document.querySelectorAll('g-emoji')
+  emojiNodes.forEach(emojiNode => {
+    const parentNode = emojiNode.parentNode;
+    const char = emojiNode.textContent;
+    const imgTag = JSDOM.fragment(emoji.unifiedToHTML(char));
+    parentNode.insertBefore(imgTag, emojiNode)
+    parentNode.removeChild(emojiNode)
+  })
+  return dom.window.document.documentElement.innerHTML;
+}
 
 gulp.task('default', function() {
   return gulp.src('README.md')
@@ -20,7 +35,8 @@ gulp.task('default', function() {
     markdown(file.contents.toString())
     .then(html => {
       file.path = gutil.replaceExtension(file.path, '.html');
-      file.contents = new Buffer(html);
+
+      file.contents = new Buffer(fixEmojis(html));
       cb(null, file);
     })
     .catch(err => {
@@ -37,11 +53,15 @@ gulp.task('default', function() {
     file.contents = Buffer.concat([
       new Buffer(`
         <!DOCTYPE html><html><head><meta charset="utf-8">
+        <link href="http://cdn.staticfile.org/emoji/0.2.2/emoji.css" rel="stylesheet" type="text/css" />
         <style>
-          @import url('https://fonts.googleapis.com/css?family=Roboto');
           @media print {
-            html {
-              zoom: 0.57; /*workaround for phantomJS2 rendering pages too large*/
+            @import url('https://fonts.googleapis.com/css?family=Roboto:400,600,700,900&display=swap');
+            .markdown-body {
+              width: 780px;
+              margin-top: 150px !important;
+              margin-bottom: 60px !important;
+              font-size: 14px;
             }
           }
           .markdown-body {
@@ -49,8 +69,17 @@ gulp.task('default', function() {
             min-width: 200px;
             max-width: 840px;
             margin: 0 auto;
+            margin-top: 50px !important;
             padding: 15px;
-            font-family: 'Roboto', 'Helvetica', sans-serif !important;
+          }
+          .markdown-body strong {
+            font-weight: 700 !important;
+          }
+          .markdown-body h1,h2,h3,h4 {
+            font-weight: 600 !important;
+          }
+          .markdown-body h3 {
+            margin-bottom: 5px !important;
           }
           .markdown-body h5 {
             margin-top: -5px !important;
@@ -61,8 +90,8 @@ gulp.task('default', function() {
           .markdown-body hr {
             height: 2px !important;
           }
-          .emoji {
-            width: 1em;
+          .markdown-body h2 .emoji {
+            vertical-align: baseline !important;
           }
           ${css}
         </style>
@@ -77,19 +106,9 @@ gulp.task('default', function() {
     ]);
   }))
   .pipe(gulp.dest('.'))
-  .pipe(tap(file => {
-    // fix emojis for PDF render
-
-    // todo: can the g-emoji element be registered in the page's javascript?
-    const original = file.contents.toString();
-    const mangled = original.replace(/<g-emoji .*alias="([^"]+)".*fallback-src="([^"]+)".*>.*<\/g-emoji>/g, '<img class="emoji $1" src="$2" />');
-    file.contents = new Buffer(mangled);
-  }))
   .pipe(html2pdf({
-    //printMediaType: true
-    format: 'A4',
-    orientation: 'portrait',
-    border: '20mm'
+    printMediaType: true,
+    images: true,
   }))
   .pipe(gulp.dest('.'))
 });
