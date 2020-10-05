@@ -1,12 +1,14 @@
 # Ruslan Komjakov
+*User Experience Specialist, ex Circ (acquired by Bird).*
 
-*Is your team solving the right challenge?*  :sparkles:
+**Is your team solving the right challenge?**  :sparkles:
 
-Product design and innovation consultant employing user-centric design methods to help teams focus on the right problems and build better products faster. Available **immediately** for contract work in Berlin.
+Product design and innovation consultant employing user-centric design methods to help teams focus on the right problems to build better products faster. Available **immediately** for contract work in Berlin and remote.
 
+> I have worked with Ruslan on two occasions, both high stakes projects. He'd bring a lot of value to any organization. Strong work ethic, and an amazing capacity for analysis and synthesis. [John Vetan](https://www.linkedin.com/in/johnvetan/), CEO @ Design Sprint Academy
 > "Ruslan never stops challenging things!" — Team member (Circ)  
-> "Always asking the right questions." — [Luigi Ianni](https://www.linkedin.com/in/luiginoianni/), PM (Quandoo)  
-> "A fantastic user experience designer." — [Sándor Akszenovics](https://www.linkedin.com/in/sandorakszenovics/), PO (Lykon)  
+> "Always asking the right questions." — [Luigi Ianni](https://www.linkedin.com/in/luiginoianni/), PM @ Quandoo
+> "A fantastic user experience designer." — [Sándor Akszenovics](https://www.linkedin.com/in/sandorakszenovics/), PO @ Lykon
 
 :iphone:  +49 1525 5709103   
 :envelope:  ruslan@komyakov.me  
@@ -14,27 +16,36 @@ Product design and innovation consultant employing user-centric design methods t
 
 ## Experience
 
-`Design Sprint Facilitation`• `Problem Framing` • `Discovery & Ideation Workshops` • `Concept Testing` • `User Journey Mapping` • `User Research` • `Rapid Prototyping` • `Value Proposition Design`
+`Design Strategy` • `Design Sprint Facilitation` • `Problem Framing` • `Discovery & Ideation Workshops` • `Concept Design` • `User Journey Mapping` • `User Research` • `Rapid Prototyping` • `Value Proposition Design`
 
-### Product Designer at [Circ](https://www.linkedin.com/company/wecirc/) – [01/2018–10/2019]
+### Head of Design, Co-Founder at [Dive](https://www.diveee.com/) – [04/2020]
+
+`Live-streaming, Entertainment`
+
+*   Searching for Product-Market Fit
+*   Value proposition design
+*   Developing Product Discovery Framework
+*   Leading Design Team
+
+### Product Designer at [Circ](https://www.linkedin.com/company/wecirc/) | Scaling Operations – [01/2018–10/2019]
 
 `Mobility`
 
-*   Created mobile solutions that enabled business operations across EU markets and the Middle East
+*   Designed mobile solutions that enabled business operations across EU markets and the Middle East
 *   Conducted field research to understand the immediate user needs and ways to improve operations efficiency
 *   Organized and facilitated product discovery and innovation workshops
 *   Worked closely with PMs to define MVPs and products' strategies
 *   Collaborated closely with Country Managers to ensure products are serving business needs
 *   Pushed forward product experiments and concepts tests (e.g., automated task assignment, innovative swappable batteries service, etc.)
-*   Helped to integrate the discovery process into the development cycle
+*   Integrated the discovery process into the development cycle
 
-### Product Designer at [Quandoo](https://www.linkedin.com/company/quandoo/) – [02/2018–08/2018]
+### Product Designer at [Quandoo](https://www.linkedin.com/company/quandoo/) | Payment Innovation Product – [02/2018–08/2018]
 
 `Restaurant tech`
 
 *   Led the discovery and design stages of an innovative payment solution for restaurants
 *   Conducted foundational research in European and UK markets
-*   Developed a value proposition for B2C and B2B customers
+*   Designed a value proposition for B2C and B2B customers
 *   Designed a service blueprint and created experience maps
 *   Facilitated numerous Design Sprints and problem framing workshops
 
