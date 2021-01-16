@@ -1,836 +1,181 @@
-
-        <!DOCTYPE html><html><head><meta charset="utf-8">
-        <link href="http://cdn.staticfile.org/emoji/0.2.2/emoji.css" rel="stylesheet" type="text/css" />
-        <style>
-          @media print {
-            @import url('https://fonts.googleapis.com/css?family=Roboto:400,600,700,900&display=swap');
-            .markdown-body {
-              width: 780px;
-              margin-top: 150px !important;
-              margin-bottom: 60px !important;
-              font-size: 14px;
-            }
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+        @import url('https://fonts.googleapis.comcss?family=Roboto:400,600,700,900&display=swap');
+        @media print {
+          body {
+            margin-top: 0px;
+            width: 900px;
           }
-          .markdown-body {
-            box-sizing: border-box;
-            min-width: 200px;
-            max-width: 840px;
-            margin: 0 auto;
-            margin-top: 50px !important;
-            padding: 15px;
-          }
-          .markdown-body strong {
-            font-weight: 700 !important;
-          }
-          .markdown-body h1,h2,h3,h4 {
-            font-weight: 600 !important;
-          }
-          .markdown-body h3 {
-            margin-bottom: 5px !important;
-          }
-          .markdown-body h5 {
-            margin-top: -5px !important;
-            margin-bottom: 20px !important;
-            font-weight: 300 !important;
-            color: #696969 !important;
-          }
-          .markdown-body hr {
-            height: 2px !important;
-          }
-          .markdown-body h2 .emoji {
-            vertical-align: baseline !important;
-          }
-          @font-face {
-  font-family: octicons-link;
-  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
-}
-
-.markdown-body {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  line-height: 1.5;
-  color: #24292e;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 16px;
-  line-height: 1.5;
-  word-wrap: break-word;
-}
-
-.markdown-body .pl-c {
-  color: #6a737d;
-}
-
-.markdown-body .pl-c1,
-.markdown-body .pl-s .pl-v {
-  color: #005cc5;
-}
-
-.markdown-body .pl-e,
-.markdown-body .pl-en {
-  color: #6f42c1;
-}
-
-.markdown-body .pl-smi,
-.markdown-body .pl-s .pl-s1 {
-  color: #24292e;
-}
-
-.markdown-body .pl-ent {
-  color: #22863a;
-}
-
-.markdown-body .pl-k {
-  color: #d73a49;
-}
-
-.markdown-body .pl-s,
-.markdown-body .pl-pds,
-.markdown-body .pl-s .pl-pse .pl-s1,
-.markdown-body .pl-sr,
-.markdown-body .pl-sr .pl-cce,
-.markdown-body .pl-sr .pl-sre,
-.markdown-body .pl-sr .pl-sra {
-  color: #032f62;
-}
-
-.markdown-body .pl-v,
-.markdown-body .pl-smw {
-  color: #e36209;
-}
-
-.markdown-body .pl-bu {
-  color: #b31d28;
-}
-
-.markdown-body .pl-ii {
-  color: #fafbfc;
-  background-color: #b31d28;
-}
-
-.markdown-body .pl-c2 {
-  color: #fafbfc;
-  background-color: #d73a49;
-}
-
-.markdown-body .pl-c2::before {
-  content: "^M";
-}
-
-.markdown-body .pl-sr .pl-cce {
-  font-weight: bold;
-  color: #22863a;
-}
-
-.markdown-body .pl-ml {
-  color: #735c0f;
-}
-
-.markdown-body .pl-mh,
-.markdown-body .pl-mh .pl-en,
-.markdown-body .pl-ms {
-  font-weight: bold;
-  color: #005cc5;
-}
-
-.markdown-body .pl-mi {
-  font-style: italic;
-  color: #24292e;
-}
-
-.markdown-body .pl-mb {
-  font-weight: bold;
-  color: #24292e;
-}
-
-.markdown-body .pl-md {
-  color: #b31d28;
-  background-color: #ffeef0;
-}
-
-.markdown-body .pl-mi1 {
-  color: #22863a;
-  background-color: #f0fff4;
-}
-
-.markdown-body .pl-mc {
-  color: #e36209;
-  background-color: #ffebda;
-}
-
-.markdown-body .pl-mi2 {
-  color: #f6f8fa;
-  background-color: #005cc5;
-}
-
-.markdown-body .pl-mdr {
-  font-weight: bold;
-  color: #6f42c1;
-}
-
-.markdown-body .pl-ba {
-  color: #586069;
-}
-
-.markdown-body .pl-sg {
-  color: #959da5;
-}
-
-.markdown-body .pl-corl {
-  text-decoration: underline;
-  color: #032f62;
-}
-
-.markdown-body .octicon {
-  display: inline-block;
-  vertical-align: text-top;
-  fill: currentColor;
-}
-
-.markdown-body a {
-  background-color: transparent;
-}
-
-.markdown-body a:active,
-.markdown-body a:hover {
-  outline-width: 0;
-}
-
-.markdown-body strong {
-  font-weight: inherit;
-}
-
-.markdown-body strong {
-  font-weight: bolder;
-}
-
-.markdown-body h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
-}
-
-.markdown-body img {
-  border-style: none;
-}
-
-.markdown-body code,
-.markdown-body kbd,
-.markdown-body pre {
-  font-family: monospace, monospace;
-  font-size: 1em;
-}
-
-.markdown-body hr {
-  box-sizing: content-box;
-  height: 0;
-  overflow: visible;
-}
-
-.markdown-body input {
-  font: inherit;
-  margin: 0;
-}
-
-.markdown-body input {
-  overflow: visible;
-}
-
-.markdown-body [type="checkbox"] {
-  box-sizing: border-box;
-  padding: 0;
-}
-
-.markdown-body * {
-  box-sizing: border-box;
-}
-
-.markdown-body input {
-  font-family: inherit;
-  font-size: inherit;
-  line-height: inherit;
-}
-
-.markdown-body a {
-  color: #0366d6;
-  text-decoration: none;
-}
-
-.markdown-body a:hover {
-  text-decoration: underline;
-}
-
-.markdown-body strong {
-  font-weight: 600;
-}
-
-.markdown-body hr {
-  height: 0;
-  margin: 15px 0;
-  overflow: hidden;
-  background: transparent;
-  border: 0;
-  border-bottom: 1px solid #dfe2e5;
-}
-
-.markdown-body hr::before {
-  display: table;
-  content: "";
-}
-
-.markdown-body hr::after {
-  display: table;
-  clear: both;
-  content: "";
-}
-
-.markdown-body table {
-  border-spacing: 0;
-  border-collapse: collapse;
-}
-
-.markdown-body td,
-.markdown-body th {
-  padding: 0;
-}
-
-.markdown-body h1,
-.markdown-body h2,
-.markdown-body h3,
-.markdown-body h4,
-.markdown-body h5,
-.markdown-body h6 {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.markdown-body h1 {
-  font-size: 32px;
-  font-weight: 600;
-}
-
-.markdown-body h2 {
-  font-size: 24px;
-  font-weight: 600;
-}
-
-.markdown-body h3 {
-  font-size: 20px;
-  font-weight: 600;
-}
-
-.markdown-body h4 {
-  font-size: 16px;
-  font-weight: 600;
-}
-
-.markdown-body h5 {
-  font-size: 14px;
-  font-weight: 600;
-}
-
-.markdown-body h6 {
-  font-size: 12px;
-  font-weight: 600;
-}
-
-.markdown-body p {
-  margin-top: 0;
-  margin-bottom: 10px;
-}
-
-.markdown-body blockquote {
-  margin: 0;
-}
-
-.markdown-body ul,
-.markdown-body ol {
-  padding-left: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.markdown-body ol ol,
-.markdown-body ul ol {
-  list-style-type: lower-roman;
-}
-
-.markdown-body ul ul ol,
-.markdown-body ul ol ol,
-.markdown-body ol ul ol,
-.markdown-body ol ol ol {
-  list-style-type: lower-alpha;
-}
-
-.markdown-body dd {
-  margin-left: 0;
-}
-
-.markdown-body code {
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 12px;
-}
-
-.markdown-body pre {
-  margin-top: 0;
-  margin-bottom: 0;
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 12px;
-}
-
-.markdown-body .octicon {
-  vertical-align: text-bottom;
-}
-
-.markdown-body .pl-0 {
-  padding-left: 0 !important;
-}
-
-.markdown-body .pl-1 {
-  padding-left: 4px !important;
-}
-
-.markdown-body .pl-2 {
-  padding-left: 8px !important;
-}
-
-.markdown-body .pl-3 {
-  padding-left: 16px !important;
-}
-
-.markdown-body .pl-4 {
-  padding-left: 24px !important;
-}
-
-.markdown-body .pl-5 {
-  padding-left: 32px !important;
-}
-
-.markdown-body .pl-6 {
-  padding-left: 40px !important;
-}
-
-.markdown-body::before {
-  display: table;
-  content: "";
-}
-
-.markdown-body::after {
-  display: table;
-  clear: both;
-  content: "";
-}
-
-.markdown-body>*:first-child {
-  margin-top: 0 !important;
-}
-
-.markdown-body>*:last-child {
-  margin-bottom: 0 !important;
-}
-
-.markdown-body a:not([href]) {
-  color: inherit;
-  text-decoration: none;
-}
-
-.markdown-body .anchor {
-  float: left;
-  padding-right: 4px;
-  margin-left: -20px;
-  line-height: 1;
-}
-
-.markdown-body .anchor:focus {
-  outline: none;
-}
-
-.markdown-body p,
-.markdown-body blockquote,
-.markdown-body ul,
-.markdown-body ol,
-.markdown-body dl,
-.markdown-body table,
-.markdown-body pre {
-  margin-top: 0;
-  margin-bottom: 16px;
-}
-
-.markdown-body hr {
-  height: 0.25em;
-  padding: 0;
-  margin: 24px 0;
-  background-color: #e1e4e8;
-  border: 0;
-}
-
-.markdown-body blockquote {
-  padding: 0 1em;
-  color: #6a737d;
-  border-left: 0.25em solid #dfe2e5;
-}
-
-.markdown-body blockquote>:first-child {
-  margin-top: 0;
-}
-
-.markdown-body blockquote>:last-child {
-  margin-bottom: 0;
-}
-
-.markdown-body kbd {
-  display: inline-block;
-  padding: 3px 5px;
-  font-size: 11px;
-  line-height: 10px;
-  color: #444d56;
-  vertical-align: middle;
-  background-color: #fafbfc;
-  border: solid 1px #c6cbd1;
-  border-bottom-color: #959da5;
-  border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #959da5;
-}
-
-.markdown-body h1,
-.markdown-body h2,
-.markdown-body h3,
-.markdown-body h4,
-.markdown-body h5,
-.markdown-body h6 {
-  margin-top: 24px;
-  margin-bottom: 16px;
-  font-weight: 600;
-  line-height: 1.25;
-}
-
-.markdown-body h1 .octicon-link,
-.markdown-body h2 .octicon-link,
-.markdown-body h3 .octicon-link,
-.markdown-body h4 .octicon-link,
-.markdown-body h5 .octicon-link,
-.markdown-body h6 .octicon-link {
-  color: #1b1f23;
-  vertical-align: middle;
-  visibility: hidden;
-}
-
-.markdown-body h1:hover .anchor,
-.markdown-body h2:hover .anchor,
-.markdown-body h3:hover .anchor,
-.markdown-body h4:hover .anchor,
-.markdown-body h5:hover .anchor,
-.markdown-body h6:hover .anchor {
-  text-decoration: none;
-}
-
-.markdown-body h1:hover .anchor .octicon-link,
-.markdown-body h2:hover .anchor .octicon-link,
-.markdown-body h3:hover .anchor .octicon-link,
-.markdown-body h4:hover .anchor .octicon-link,
-.markdown-body h5:hover .anchor .octicon-link,
-.markdown-body h6:hover .anchor .octicon-link {
-  visibility: visible;
-}
-
-.markdown-body h1 {
-  padding-bottom: 0.3em;
-  font-size: 2em;
-  border-bottom: 1px solid #eaecef;
-}
-
-.markdown-body h2 {
-  padding-bottom: 0.3em;
-  font-size: 1.5em;
-  border-bottom: 1px solid #eaecef;
-}
-
-.markdown-body h3 {
-  font-size: 1.25em;
-}
-
-.markdown-body h4 {
-  font-size: 1em;
-}
-
-.markdown-body h5 {
-  font-size: 0.875em;
-}
-
-.markdown-body h6 {
-  font-size: 0.85em;
-  color: #6a737d;
-}
-
-.markdown-body ul,
-.markdown-body ol {
-  padding-left: 2em;
-}
-
-.markdown-body ul ul,
-.markdown-body ul ol,
-.markdown-body ol ol,
-.markdown-body ol ul {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.markdown-body li {
-  word-wrap: break-all;
-}
-
-.markdown-body li>p {
-  margin-top: 16px;
-}
-
-.markdown-body li+li {
-  margin-top: 0.25em;
-}
-
-.markdown-body dl {
-  padding: 0;
-}
-
-.markdown-body dl dt {
-  padding: 0;
-  margin-top: 16px;
-  font-size: 1em;
-  font-style: italic;
-  font-weight: 600;
-}
-
-.markdown-body dl dd {
-  padding: 0 16px;
-  margin-bottom: 16px;
-}
-
-.markdown-body table {
-  display: block;
-  width: 100%;
-  overflow: auto;
-}
-
-.markdown-body table th {
-  font-weight: 600;
-}
-
-.markdown-body table th,
-.markdown-body table td {
-  padding: 6px 13px;
-  border: 1px solid #dfe2e5;
-}
-
-.markdown-body table tr {
-  background-color: #fff;
-  border-top: 1px solid #c6cbd1;
-}
-
-.markdown-body table tr:nth-child(2n) {
-  background-color: #f6f8fa;
-}
-
-.markdown-body img {
-  max-width: 100%;
-  box-sizing: content-box;
-  background-color: #fff;
-}
-
-.markdown-body img[align=right] {
-  padding-left: 20px;
-}
-
-.markdown-body img[align=left] {
-  padding-right: 20px;
-}
-
-.markdown-body code {
-  padding: 0.2em 0.4em;
-  margin: 0;
-  font-size: 85%;
-  background-color: rgba(27,31,35,0.05);
-  border-radius: 3px;
-}
-
-.markdown-body pre {
-  word-wrap: normal;
-}
-
-.markdown-body pre>code {
-  padding: 0;
-  margin: 0;
-  font-size: 100%;
-  word-break: normal;
-  white-space: pre;
-  background: transparent;
-  border: 0;
-}
-
-.markdown-body .highlight {
-  margin-bottom: 16px;
-}
-
-.markdown-body .highlight pre {
-  margin-bottom: 0;
-  word-break: normal;
-}
-
-.markdown-body .highlight pre,
-.markdown-body pre {
-  padding: 16px;
-  overflow: auto;
-  font-size: 85%;
-  line-height: 1.45;
-  background-color: #f6f8fa;
-  border-radius: 3px;
-}
-
-.markdown-body pre code {
-  display: inline;
-  max-width: auto;
-  padding: 0;
-  margin: 0;
-  overflow: visible;
-  line-height: inherit;
-  word-wrap: normal;
-  background-color: transparent;
-  border: 0;
-}
-
-.markdown-body .full-commit .btn-outline:not(:disabled):hover {
-  color: #005cc5;
-  border-color: #005cc5;
-}
-
-.markdown-body kbd {
-  display: inline-block;
-  padding: 3px 5px;
-  font: 11px "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  line-height: 10px;
-  color: #444d56;
-  vertical-align: middle;
-  background-color: #fafbfc;
-  border: solid 1px #d1d5da;
-  border-bottom-color: #c6cbd1;
-  border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #c6cbd1;
-}
-
-.markdown-body :checked+.radio-label {
-  position: relative;
-  z-index: 1;
-  border-color: #0366d6;
-}
-
-.markdown-body .task-list-item {
-  list-style-type: none;
-}
-
-.markdown-body .task-list-item+.task-list-item {
-  margin-top: 3px;
-}
-
-.markdown-body .task-list-item input {
-  margin: 0 0.2em 0.25em -1.6em;
-  vertical-align: middle;
-}
-
-.markdown-body hr {
-  border-bottom-color: #eee;
-}
-
-        </style>
-        </head>
-        <article class="markdown-body">
-      <head></head><body><h1>
+        }
+        html {
+          -webkit-print-color-adjust: exact;
+        }
+        img {
+          margin-top: -10px; /* fix profile img bottom padding */
+          height: 80px;
+          border-radius: 50%;
+        }
+        body {
+          box-sizing: border-box;
+          min-width: 200px;
+          max-width: 900px;
+          margin: 0 auto; /* center content for html */
+          color: #24292e;
+          font-family: 'Roboto', Helvetica, arial, sans-serif;
+          font-size: 16px;
+          line-height: 1.6;
+        }
+        a {
+          color: #0366d6;
+          text-decoration: none;
+        }
+        li {
+          margin-bottom: 3px;
+        }
+        h1 {
+          //margin-top: -16px;
+        }
+        h2 {
+          font-size: 1.5em;
+          margin-bottom: 0;
+        }
+        h3 {
+          font-size: 1.3em;
+          font-weight: 500;
+        }
+        h4 {
+          font-size: 15px;
+          margin-top: -22px;
+          margin-bottom: -6px;
+          font-weight: normal;
+          color: #6a737d;
+        }
+        h5 {
+          /* Tagline */
+          margin-top: -20px;
+          margin-bottom: 20px;
+          font-weight: normal;
+          font-size: 15px;
+          font-style: italic;
+        }
+        blockquote {
+          margin: 0;
+          padding-left: 18px;
+          font-size: 0.95em;
+          border-left: 0.25em solid #dfe2e5;
+          color: #6a737d;
+        }
+        blockquote > :last-child {
+          margin-bottom: 0;
+        }
+        .g-emoji {
+          margin-right: 12px;
+        }
+    </style></head><body><div class="markdown-body"><p><a href="https://camo.githubusercontent.com/a616af98e2059d755535cc3007b6f391ecc5551b956ca46f26192338088e0ade/68747470733a2f2f737461746963312e73717561726573706163652e636f6d2f7374617469632f3537633864353634323936383766373833383062653936612f742f3630303162363834646536636637326133623939326661632f313631303732343939363534382f70726f66696c652d706963747572652d3430302e6a7067" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/a616af98e2059d755535cc3007b6f391ecc5551b956ca46f26192338088e0ade/68747470733a2f2f737461746963312e73717561726573706163652e636f6d2f7374617469632f3537633864353634323936383766373833383062653936612f742f3630303162363834646536636637326133623939326661632f313631303732343939363534382f70726f66696c652d706963747572652d3430302e6a7067" alt="profile picture" data-canonical-src="https://static1.squarespace.com/static/57c8d56429687f78380be96a/t/6001b684de6cf72a3b992fac/1610724996548/profile-picture-400.jpg" style="max-width:100%;"></a></p>
+<h1>
 <a id="user-content-ruslan-komjakov" class="anchor" href="#ruslan-komjakov" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ruslan Komjakov</h1>
-<p><em>Is your team solving the right challenge?</em>  <span class="emoji emoji2728" title="sparkles"></span></p>
-<p>Product design and innovation consultant employing user-centric design methods to help teams focus on the right problems and build better products faster. Available <strong>immediately</strong> for contract work in Berlin.</p>
+<h5>
+<a id="user-content-is-your-team-solving-the-right-challenge-" class="anchor" href="#is-your-team-solving-the-right-challenge-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Is your team solving the right challenge? <g-emoji class="g-emoji" alias="boat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26f5.png">⛵</g-emoji>
+</h5>
+<p>Strategic Design consultant (ex <a href="https://www.linkedin.com/company/wecirc" rel="nofollow">Circ</a>, ex <a href="https://www.linkedin.com/company/quandoo/" rel="nofollow">Quandoo</a>) who helps organizations innovate by employing user-centric design methods and bridging business, technology, and design.</p>
 <blockquote>
-<p>"Ruslan never stops challenging things!" — Team member (Circ)<br>
-"Always asking the right questions." — <a href="https://www.linkedin.com/in/luiginoianni/" rel="nofollow">Luigi Ianni</a>, PM (Quandoo)<br>
-"A fantastic user experience designer." — <a href="https://www.linkedin.com/in/sandorakszenovics/" rel="nofollow">Sándor Akszenovics</a>, PO (Lykon)</p>
+<p>Ruslan helps teams focus on the right problems so they can build better products and scale the business faster. – <a href="https://www.linkedin.com/in/gonzaloarenas/" rel="nofollow">Gonzalo Arenas</a>, Head of Global Operations at Circ</p>
 </blockquote>
-<p><span class="emoji emoji1f4f1" title="mobile phone"></span>  +49 1525 5709103<br>
-<span class="emoji emoji2709" title="envelope"></span>️  <a href="mailto:ruslan@komyakov.me">ruslan@komyakov.me</a><br>
-<span class="emoji emoji1f517" title="link symbol"></span>  <a href="https://www.linkedin.com/in/ruslankomjakov" rel="nofollow">linkedin.com/in/ruslankomjakov</a></p>
+<blockquote>
+<p>I have worked with Ruslan on two occasions, both high stakes projects. Strong work ethic and an amazing capacity for analysis and synthesis. He'd bring a lot of value to any organization. – <a href="https://www.linkedin.com/in/johnvetan/" rel="nofollow">John Vetan</a>, CEO at Design Sprint Academy</p>
+</blockquote>
+<p><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> +49 1525 5709103<br>
+<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji>  <a href="mailto:ruslan@komyakov.me">ruslan@komyakov.me</a><br>
+<g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> <a href="https://www.linkedin.com/in/ruslankomjakov" rel="nofollow">View my Linkedin</a><br>
+<g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <a href="https://calendly.com/ruslankomjakov/interview" rel="nofollow">Schedule time with me</a></p>
+
+<h2>
+<a id="user-content-key-expertise" class="anchor" href="#key-expertise" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Key expertise</h2>
+<ul>
+<li>Product, Service, and Business Design</li>
+<li>Problem Framing and Hypothesis validation</li>
+<li>Design Sprint / Design Thinking workshops facilitation</li>
+<li>User Research (qualitative and quantitative)</li>
+<li>Product Management and Strategy</li>
+</ul>
 <h2>
 <a id="user-content-experience" class="anchor" href="#experience" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Experience</h2>
-<p><code>Design Sprint Facilitation</code>• <code>Problem Framing</code> • <code>Discovery &amp; Ideation Workshops</code> • <code>Concept Testing</code> • <code>User Journey Mapping</code> • <code>User Research</code> • <code>Rapid Prototyping</code> • <code>Value Proposition Design</code></p>
+
 <h3>
-<a id="user-content-product-designer-at-circ--012018102019" class="anchor" href="#product-designer-at-circ--012018102019" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Product Designer at <a href="https://www.linkedin.com/company/wecirc/" rel="nofollow">Circ</a> – [01/2018–10/2019]</h3>
-<p><code>Mobility</code></p>
-<ul>
-<li>Created mobile solutions that enabled business operations across EU markets and the Middle East</li>
-<li>Conducted field research to understand the immediate user needs and ways to improve operations efficiency</li>
-<li>Organized and facilitated product discovery and innovation workshops</li>
-<li>Worked closely with PMs to define MVPs and products' strategies</li>
-<li>Collaborated closely with Country Managers to ensure products are serving business needs</li>
-<li>Pushed forward product experiments and concepts tests (e.g., automated task assignment, innovative swappable batteries service, etc.)</li>
-<li>Helped to integrate the discovery process into the development cycle</li>
-</ul>
-<h3>
-<a id="user-content-product-designer-at-quandoo--022018082018" class="anchor" href="#product-designer-at-quandoo--022018082018" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Product Designer at <a href="https://www.linkedin.com/company/quandoo/" rel="nofollow">Quandoo</a> – [02/2018–08/2018]</h3>
-<p><code>Restaurant tech</code></p>
-<ul>
-<li>Led the discovery and design stages of an innovative payment solution for restaurants</li>
-<li>Conducted foundational research in European and UK markets</li>
-<li>Developed a value proposition for B2C and B2B customers</li>
-<li>Designed a service blueprint and created experience maps</li>
-<li>Facilitated numerous Design Sprints and problem framing workshops</li>
-</ul>
-<h3>
-<a id="user-content-user-experience-designer-at-lykon--042017092017" class="anchor" href="#user-experience-designer-at-lykon--042017092017" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>User Experience Designer at <a href="https://www.linkedin.com/company/lykon/" rel="nofollow">Lykon</a> – [04/2017–09/2017]</h3>
-<p><code>HealthTech</code></p>
-<ul>
-<li>Designed a brand new user onboarding experience</li>
-<li>Conducted qualitative user research and defined personas</li>
-<li>Conducted usability tests</li>
-<li>Mapped customers journeys and user flows</li>
-<li>Designed and validated prototypes</li>
-</ul>
-<h3>
-<a id="user-content-uxui-designer-at-reimaginebelongingorg--012015102016" class="anchor" href="#uxui-designer-at-reimaginebelongingorg--012015102016" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>UX/UI Designer at <a href="https://reimaginebelonging.org" rel="nofollow">reimaginebelonging.org</a> – [01/2015–10/2016]</h3>
-<p><code>Education</code></p>
-<ul>
-<li>Redesigned information architecture and improved user experience</li>
-<li>Designed a new user interface and visual style</li>
-<li>Implemented and maintained open-source repositories and documentation</li>
-<li>Designed interactive pop-up installations</li>
-</ul>
-<h5>
-<a id="user-content-the-interactive-educational-website-was-selected-by-dok-leipzig-film-festival-and-the-new-school-exhibition-the-project-was-presented-at-googletalks-youtube-hq-and-humanity-in-action" class="anchor" href="#the-interactive-educational-website-was-selected-by-dok-leipzig-film-festival-and-the-new-school-exhibition-the-project-was-presented-at-googletalks-youtube-hq-and-humanity-in-action" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>The interactive educational website was selected by DOK Leipzig Film Festival and The New School exhibition. The project was presented at GoogleTalks, YouTube HQ, and Humanity In Action</em>
-</h5>
-<h3>
-<a id="user-content-freelance-uxui-designer--012011012015" class="anchor" href="#freelance-uxui-designer--012011012015" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Freelance UX/UI Designer – [01/2011–01/2015]</h3>
-<p><code>Various industries</code></p>
-<ul>
-<li>Provided the design expertise to digital agencies and startup product teams</li>
-<li>Designed information architecture and wireframes for e-commerce websites, web and mobile apps</li>
-<li>Produced mockups and prototypes</li>
-<li>Designed user interfaces, icons, and other visual deliverables</li>
-<li>Worked closely with PMs and engineers both on-site and in distributed teams</li>
-</ul>
-<h2>
-<a id="user-content-need-more-experience-information_desk_person" class="anchor" href="#need-more-experience-information_desk_person" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Need more experience? <span class="emoji emoji1f481" title="information desk person"></span>
-</h2>
-<ul>
-<li>UX/UI Designer at Versio2 Agency — [2010–2011]</li>
-<li>Co-Founder at Skyplex International – [2007–2009]</li>
-<li>Art Director at Mediaworks – [2006–2010]</li>
-<li>Web Designer at Custom Media Agency (CMA) – [2004–2006]</li>
-</ul>
-<h2>
-<a id="user-content-keeping-up-to-date--self-education" class="anchor" href="#keeping-up-to-date--self-education" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Keeping up-to-date / Self-education</h2>
-<ul>
-<li>Business Model Design Certificate – Strategyzer, Berlin [08/2018]</li>
-<li>Product Design Course – Udacity [07/2018]</li>
-<li>Design Sprints Facilitation Workshop certificate – inVision / DSA [04/2018]</li>
-<li>Service Design Workshop – Global Service Jam [03/2018]</li>
-</ul>
+<a id="user-content-dive--head-of-design--042020--122020" class="anchor" href="#dive--head-of-design--042020--122020" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://diveee.com/" rel="nofollow">Dive</a> • Head of Design • [04/2020 – 12/2020]</h3>
 <h4>
-<a id="user-content-other-keywords" class="anchor" href="#other-keywords" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Other keywords</h4>
-<h5>
-<a id="user-content-agile-b2b-b2c-concept-design-customer-experience-design-design-thinking-design-sprint-discovery-and-ideation-workshop-lean-ux-lean-product-market-research-rapid-prototyping-problem-framing-problem-solving-product-design-service-design-strategic-design-user-interface-design-user-journey-mapping-usability-testing-ux-research-validation-testing-value-proposition-design-visual-design-qualitative-research-quantitative-research-workshop-facilitation" class="anchor" href="#agile-b2b-b2c-concept-design-customer-experience-design-design-thinking-design-sprint-discovery-and-ideation-workshop-lean-ux-lean-product-market-research-rapid-prototyping-problem-framing-problem-solving-product-design-service-design-strategic-design-user-interface-design-user-journey-mapping-usability-testing-ux-research-validation-testing-value-proposition-design-visual-design-qualitative-research-quantitative-research-workshop-facilitation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em><code>Agile</code>, <code>B2B</code>, <code>B2C</code>, <code>Concept Design</code>, <code>Customer Experience Design</code>, <code>Design Thinking</code>, <code>Design Sprint</code>, <code>Discovery and Ideation Workshop</code>, <code>Lean UX</code>, <code>Lean Product</code>, <code>Market Research</code>, <code>Rapid Prototyping</code>, <code>Problem Framing</code>, <code>Problem Solving</code>, <code>Product Design</code>, <code>Service Design</code>, <code>Strategic Design</code>, <code>User Interface Design</code>, <code>User Journey Mapping</code>, <code>Usability Testing</code>, <code>UX Research,</code> <code>Validation Testing</code>, <code>Value Proposition Design</code>, <code>Visual Design</code>, <code>Qualitative Research</code>, <code>Quantitative Research</code>,<code> Workshop Facilitation</code></em>
-</h5>
-</body>
-        </article>
-        </html>
-      
+<a id="user-content-live-streaming-platform--passion-economy" class="anchor" href="#live-streaming-platform--passion-economy" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Live-streaming Platform • Passion economy</h4>
+<p>Consulted the next generation entertainment platform on user experience design, value proposition and the Product-Market Fit.</p>
+
+<h3>
+<a id="user-content-circ-acq-by-bird--sr-product-designer-contract--122018--102019" class="anchor" href="#circ-acq-by-bird--sr-product-designer-contract--122018--102019" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://www.linkedin.com/company/wecirc" rel="nofollow">Circ</a> (acq by Bird) • Sr. Product Designer (Contract) • [12/2018 – 10/2019]</h3>
+<h4>
+<a id="user-content-mobility--fast-scaling-operations" class="anchor" href="#mobility--fast-scaling-operations" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Mobility • Fast-scaling operations</h4>
+<p>Conceptualized and owned design of ops products for one of the fastest-growing e-scooter startups in Europe and UAE.</p>
+<ul>
+<li>Designed digital solutions that helped the company grow from an early stage to fast-scaling operations serving customers from 14 countries in 40 cities</li>
+<li>Pioneered the concept and design of an automated task assignment and route planning solution that minimized the human factor, increased operations efficiency, and improved unit economics</li>
+<li>Planned and ran a workshop for C-Level executives and strategic partners to plan a pilot service for new e-scooter models with swappable batteries</li>
+<li>Conducted field research as a part of continuous product improvement and discovery to follow-up with fast-changing operations</li>
+</ul>
+<h3>
+<a id="user-content-design-sprint-academy--workshop-facilitator--092018" class="anchor" href="#design-sprint-academy--workshop-facilitator--092018" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://designsprint.academy" rel="nofollow">Design Sprint Academy</a> • Workshop Facilitator • [09/2018]</h3>
+<h4>
+<a id="user-content-management-consulting" class="anchor" href="#management-consulting" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Management Consulting</h4>
+<p>Supported the organization and facilitation of a 2-days workshop for a Fortune 500 client</p>
+<h3>
+<a id="user-content-quandoo--sr-product-designer-contract--022018---082018" class="anchor" href="#quandoo--sr-product-designer-contract--022018---082018" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://www.linkedin.com/company/quandoo/" rel="nofollow">Quandoo</a> • Sr. Product Designer (Contract) • [02/2018 - 08/2018]</h3>
+<h4>
+<a id="user-content-restaurant-tech--payment-innovation" class="anchor" href="#restaurant-tech--payment-innovation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Restaurant tech • Payment Innovation</h4>
+<p>Led research, defined and established design for an innovative payment solution in restaurants.</p>
+<ul>
+<li>Directed foundational research to collect insights into human behavior and needs related to payment</li>
+<li>Analyzed and synthesized research data to design value proposition for each customer segment</li>
+<li>Planned and facilitated a Design Sprint to create and validate new payment service</li>
+<li>Provided UX support during the development of an MVP</li>
+<li>Ran numerous Design Sprints for different initiatives</li>
+</ul>
+<h3>
+<a id="user-content-lykon--user-experience-designer-contract--042017--012018" class="anchor" href="#lykon--user-experience-designer-contract--042017--012018" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://www.linkedin.com/company/lykon/" rel="nofollow">Lykon</a> • User Experience Designer (Contract) • [04/2017 – 01/2018]</h3>
+<h4>
+<a id="user-content-healthtech" class="anchor" href="#healthtech" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>HealthTech</h4>
+<p>Designed an onboarding and improved user experience of personalized nutrition recommendations based on blood and DNA tests</p>
+<ul>
+<li>Designed onboarding experience that allowed users to benefit from the product while waiting for test results</li>
+<li>Conducted usability tests and user interviews</li>
+<li>Designed and tested prototypes</li>
+<li>Worked closely with nutrition scientists and copywriters to improve messaging</li>
+</ul>
+<h3>
+<a id="user-content-more-experience-" class="anchor" href="#more-experience-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>More experience? <g-emoji class="g-emoji" alias="tipping_hand_person" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f481.png">💁</g-emoji>
+</h3>
+<ul>
+<li>Freelance UI/UX Designer • Berlin, Germany [2012–2017]</li>
+<li>UI/UX Designer at Versio2 • Tallinn, Estonia [2009–2011]</li>
+<li>Executive Director, Co-Founder at Skyplex International • Tallinn, Estonia [2007–2009]</li>
+<li>Art Director, Co-Founder at Mediaworks • Tallinn, Estonia [2006–2010]</li>
+<li>Web Designer at Custom Media Agency (CMA) • Tallinn, Estonia [2004–2006]</li>
+</ul>
+<h2>
+<a id="user-content-methods-and-frameworks" class="anchor" href="#methods-and-frameworks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Methods and Frameworks</h2>
+<ul>
+<li>Jobs To Be Done</li>
+<li>Design Sprint</li>
+<li>User Interviews</li>
+<li>User Journey Mapping</li>
+<li>Rapid Prototyping</li>
+<li>Business Model Canvas</li>
+</ul>
+<h2>
+<a id="user-content-staying-in-shape" class="anchor" href="#staying-in-shape" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Staying In Shape</h2>
+<ul>
+<li>
+<strong>User Experience and Design Thinking Mentor</strong> for <a href="https://devpost.com/software/project-327" rel="nofollow">Project 327</a> team at <a href="https://www.versusvirus.ch/april-hackathon" rel="nofollow">#VersusVirus</a> Hackathon, April 2020</li>
+<li>
+<strong>Design Process Facilitator</strong> for <a href="https://devpost.com/software/door-opening-project" rel="nofollow">SimSim Project</a> team at <a href="https://www.codevscovid19.org/" rel="nofollow">#CodeVsCovid19</a> HackZurich Hackathon, March 2020</li>
+<li>
+<a href="https://www.smartcertificate.com/SmartDiploma/Default.aspx?OtPHtMo%2bNHRww0RLiKM9p0j%2fZOr3QBTtQYJ1UUtVyPsG78fBN5n8Xudd%2fkYitHlf" rel="nofollow">Participant</a> of the <strong>Business Model Design Masterclass</strong> by Alexander Osterwalder (Strategyzer), August 2018</li>
+<li>Product Design Course – Udacity, July 2018</li>
+<li>Participant of the <strong>Design Sprints Facilitation Workshop</strong> by inVision and Desing Sprint Academy, April 2018</li>
+<li>Participant of the <strong>Service Design Workshop</strong> by Global Service Jam, March 2018</li>
+</ul>
+</div></body></html>

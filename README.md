@@ -1,99 +1,119 @@
+![profile picture](https://static1.squarespace.com/static/57c8d56429687f78380be96a/t/6001b684de6cf72a3b992fac/1610724996548/profile-picture-400.jpg)
+
 # Ruslan Komjakov
-*User Experience Specialist, ex Circ (acquired by Bird).*
 
-**Is your team solving the right challenge?**  :sparkles:
+##### Is your team solving the right challenge? ⛵
 
-Product design and innovation consultant employing user-centric design methods to help teams focus on the right problems to build better products faster. Available **immediately** for contract work in Berlin and remote.
+Strategic Design consultant (ex [Circ](https://www.linkedin.com/company/wecirc), ex [Quandoo](https://www.linkedin.com/company/quandoo/)) who helps organizations innovate by employing user-centric design methods and bridging business, technology, and design.
 
-> I have worked with Ruslan on two occasions, both high stakes projects. He'd bring a lot of value to any organization. Strong work ethic, and an amazing capacity for analysis and synthesis. [John Vetan](https://www.linkedin.com/in/johnvetan/), CEO @ Design Sprint Academy
-> "Ruslan never stops challenging things!" — Team member (Circ)  
-> "Always asking the right questions." — [Luigi Ianni](https://www.linkedin.com/in/luiginoianni/), PM @ Quandoo
-> "A fantastic user experience designer." — [Sándor Akszenovics](https://www.linkedin.com/in/sandorakszenovics/), PO @ Lykon
+> Ruslan helps teams focus on the right problems so they can build better products and scale the business faster. – [Gonzalo Arenas](https://www.linkedin.com/in/gonzaloarenas/), Head of Global Operations at Circ
 
-:iphone:  +49 1525 5709103   
-:envelope:  ruslan@komyakov.me  
-:link:  [linkedin.com/in/ruslankomjakov](https://www.linkedin.com/in/ruslankomjakov)
+> I have worked with Ruslan on two occasions, both high stakes projects. Strong work ethic and an amazing capacity for analysis and synthesis. He'd bring a lot of value to any organization. – [John Vetan](https://www.linkedin.com/in/johnvetan/), CEO at Design Sprint Academy
+
+📞 +49 1525 5709103   
+✉️  ruslan@komyakov.me  
+🔗 [View my Linkedin](https://www.linkedin.com/in/ruslankomjakov)   
+📅 [Schedule time with me](https://calendly.com/ruslankomjakov/interview)
+
+<!-- ## Key expertise
+
+• Product, Service, and Business Design
+• Problem Framing and Hypothesis validation
+• Design Sprint / Design Thinking workshops facilitation
+• User Research (qualitative and quantitative)
+• Product Management and Strategy -->
+
+## Key expertise
+
+*   Product, Service, and Business Design
+*   Problem Framing and Hypothesis validation
+*   Design Sprint / Design Thinking workshops facilitation
+*   User Research (qualitative and quantitative)
+*   Product Management and Strategy
 
 ## Experience
 
-`Design Strategy` • `Design Sprint Facilitation` • `Problem Framing` • `Discovery & Ideation Workshops` • `Concept Design` • `User Journey Mapping` • `User Research` • `Rapid Prototyping` • `Value Proposition Design`
+<!-- ### [Altalingua](https://www.linkedin.com/company/altalingua-world/) • Product Manager • [09/2020 – 11/2020]
+##### Translation service
 
-### Head of Design, Co-Founder at [Dive](https://www.diveee.com/) – [04/2020]
+*   Used Design Thinking methods to help the team identify opportunities for  translation process improvement
+*   Designed user interface for the MVP
+*   Translated designs into user stories
+*   Supervised the development process -->
 
-`Live-streaming, Entertainment`
+### [Dive](https://diveee.com/) • Head of Design • [04/2020 – 12/2020]
 
-*   Searching for Product-Market Fit
-*   Value proposition design
-*   Developing Product Discovery Framework
-*   Leading Design Team
+#### Live-streaming Platform • Passion economy
 
-### Product Designer at [Circ](https://www.linkedin.com/company/wecirc/) | Scaling Operations – [01/2018–10/2019]
+Consulted the next generation entertainment platform on user experience design, value proposition and the Product-Market Fit.
 
-`Mobility`
+<!-- *   Value proposition design
+*   Designing and testing product concepts
+*   Facilitating ideation sessions with stakeholders
+*   Researching and analyzing users' behavior in the context of live streaming -->
 
-*   Designed mobile solutions that enabled business operations across EU markets and the Middle East
-*   Conducted field research to understand the immediate user needs and ways to improve operations efficiency
-*   Organized and facilitated product discovery and innovation workshops
-*   Worked closely with PMs to define MVPs and products' strategies
-*   Collaborated closely with Country Managers to ensure products are serving business needs
-*   Pushed forward product experiments and concepts tests (e.g., automated task assignment, innovative swappable batteries service, etc.)
-*   Integrated the discovery process into the development cycle
+### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird) • Sr. Product Designer (Contract) • [12/2018 – 10/2019]
 
-### Product Designer at [Quandoo](https://www.linkedin.com/company/quandoo/) | Payment Innovation Product – [02/2018–08/2018]
+#### Mobility • Fast-scaling operations
 
-`Restaurant tech`
+Conceptualized and owned design of ops products for one of the fastest-growing e-scooter startups in Europe and UAE.
 
-*   Led the discovery and design stages of an innovative payment solution for restaurants
-*   Conducted foundational research in European and UK markets
-*   Designed a value proposition for B2C and B2B customers
-*   Designed a service blueprint and created experience maps
-*   Facilitated numerous Design Sprints and problem framing workshops
+*  Designed digital solutions that helped the company grow from an early stage to fast-scaling operations serving customers from 14 countries in 40 cities
+*   Pioneered the concept and design of an automated task assignment and route planning solution that minimized the human factor, increased operations efficiency, and improved unit economics
+*   Planned and ran a workshop for C-Level executives and strategic partners to plan a pilot service for new e-scooter models with swappable batteries
+*   Conducted field research as a part of continuous product improvement and discovery to follow-up with fast-changing operations
 
-### User Experience Designer at [Lykon](https://www.linkedin.com/company/lykon/) – [04/2017–09/2017]
+### [Design Sprint Academy](https://designsprint.academy) • Workshop Facilitator • [09/2018]
 
-`HealthTech`
+#### Management Consulting
 
-*   Designed a brand new user onboarding experience
-*   Conducted qualitative user research and defined personas
-*   Conducted usability tests
-*   Mapped customers journeys and user flows
-*   Designed and validated prototypes
+Supported the organization and facilitation of a 2-days workshop for a Fortune 500 client
 
-### UX/UI Designer at [reimaginebelonging.org](https://reimaginebelonging.org) – [01/2015–10/2016]
+### [Quandoo](https://www.linkedin.com/company/quandoo/) • Sr. Product Designer (Contract) • [02/2018 - 08/2018]
 
-`Education`
+#### Restaurant tech • Payment Innovation
 
-*   Redesigned information architecture and improved user experience
-*   Designed a new user interface and visual style
-*   Implemented and maintained open-source repositories and documentation
-*   Designed interactive pop-up installations
+Led research, defined and established design for an innovative payment solution in restaurants.
 
-##### *The interactive educational website was selected by DOK Leipzig Film Festival and The New School exhibition. The project was presented at GoogleTalks, YouTube HQ, and Humanity In Action*
+*   Directed foundational research to collect insights into human behavior and needs related to payment
+*   Analyzed and synthesized research data to design value proposition for each customer segment
+*   Planned and facilitated a Design Sprint to create and validate new payment service
+*  Provided UX support during the development of an MVP
+*  Ran numerous Design Sprints for different initiatives
 
-### Freelance UX/UI Designer – [01/2011–01/2015]
+### [Lykon](https://www.linkedin.com/company/lykon/) • User Experience Designer (Contract) • [04/2017 – 01/2018]
 
-`Various industries`
+#### HealthTech
 
-*   Provided the design expertise to digital agencies and startup product teams
-*   Designed information architecture and wireframes for e-commerce websites, web and mobile apps
-*   Produced mockups and prototypes
-*   Designed user interfaces, icons, and other visual deliverables
-*   Worked closely with PMs and engineers both on-site and in distributed teams
+Designed an onboarding and improved user experience of personalized nutrition recommendations based on blood and DNA tests
 
-## Need more experience? :information_desk_person:
+*   Designed onboarding experience that allowed users to benefit from the product while waiting for test results
+*   Conducted usability tests and user interviews
+*   Designed and tested prototypes
+*   Worked closely with nutrition scientists and copywriters to improve messaging
 
-*   UX/UI Designer at Versio2 Agency — [2010–2011]
-*   Co-Founder at Skyplex International – [2007–2009]
-*   Art Director at Mediaworks – [2006–2010]
-*   Web Designer at Custom Media Agency (CMA) – [2004–2006]
+### More experience? 💁
 
-## Keeping up-to-date / Self-education
+*   Freelance UI/UX Designer • Berlin, Germany [2012–2017]
+*   UI/UX Designer at Versio2 • Tallinn, Estonia [2009–2011]
+*   Executive Director, Co-Founder at Skyplex International • Tallinn, Estonia [2007–2009]
+*   Art Director, Co-Founder at Mediaworks • Tallinn, Estonia [2006–2010]
+*   Web Designer at Custom Media Agency (CMA) • Tallinn, Estonia [2004–2006]
 
-*   Business Model Design Certificate – Strategyzer, Berlin [08/2018]
-*   Product Design Course – Udacity [07/2018]
-*   Design Sprints Facilitation Workshop certificate – inVision / DSA [04/2018]
-*   Service Design Workshop – Global Service Jam [03/2018]
+## Methods and Frameworks
 
-#### Other keywords
+*   Jobs To Be Done
+*   Design Sprint
+*   User Interviews
+*   User Journey Mapping
+*   Rapid Prototyping
+*   Business Model Canvas
 
-##### *`Agile`, `B2B`, `B2C`, `Concept Design`, `Customer Experience Design`, `Design Thinking`, `Design Sprint`, `Discovery and Ideation Workshop`, `Lean UX`, `Lean Product`, `Market Research`, `Rapid Prototyping`, `Problem Framing`, `Problem Solving`, `Product Design`, `Service Design`, `Strategic Design`, `User Interface Design`, `User Journey Mapping`, `Usability Testing`, `UX Research,` `Validation Testing`, `Value Proposition Design`, `Visual Design`, `Qualitative Research`, `Quantitative Research`,` Workshop Facilitation`*
+## Staying In Shape
+
+*   **User Experience and Design Thinking Mentor** for [Project 327](https://devpost.com/software/project-327) team at [#VersusVirus](https://www.versusvirus.ch/april-hackathon) Hackathon, April 2020
+*  **Design Process Facilitator** for [SimSim Project](https://devpost.com/software/door-opening-project) team at [#CodeVsCovid19](https://www.codevscovid19.org/) HackZurich Hackathon, March 2020
+*   [Participant](https://www.smartcertificate.com/SmartDiploma/Default.aspx?OtPHtMo%2bNHRww0RLiKM9p0j%2fZOr3QBTtQYJ1UUtVyPsG78fBN5n8Xudd%2fkYitHlf) of the **Business Model Design Masterclass** by Alexander Osterwalder (Strategyzer), August 2018
+*   Product Design Course – Udacity, July 2018
+*   Participant of the **Design Sprints Facilitation Workshop** by inVision and Desing Sprint Academy, April 2018
+*   Participant of the **Service Design Workshop** by Global Service Jam, March 2018
