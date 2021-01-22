@@ -4,7 +4,7 @@
 
 ##### Is your team solving the right challenge? ⛵
 
-Strategic Design consultant (ex [Circ](https://www.linkedin.com/company/wecirc), ex [Quandoo](https://www.linkedin.com/company/quandoo/)) who helps organizations innovate by employing user-centric design methods and bridging business, technology, and design.
+User Experience and Strategic Design consultant (ex [Circ](https://www.linkedin.com/company/wecirc), ex [Quandoo](https://www.linkedin.com/company/quandoo/)) who helps organizations innovate by employing user-centric design methods and bridging business, technology, and design.
 
 > Ruslan helps teams focus on the right problems so they can build better products and scale the business faster. – [Gonzalo Arenas](https://www.linkedin.com/in/gonzaloarenas/), Head of Global Operations at Circ
 
@@ -15,105 +15,102 @@ Strategic Design consultant (ex [Circ](https://www.linkedin.com/company/wecirc),
 🔗 [View my Linkedin](https://www.linkedin.com/in/ruslankomjakov)   
 📅 [Schedule time with me](https://calendly.com/ruslankomjakov/interview)
 
-<!-- ## Key expertise
-
-• Product, Service, and Business Design
-• Problem Framing and Hypothesis validation
-• Design Sprint / Design Thinking workshops facilitation
-• User Research (qualitative and quantitative)
-• Product Management and Strategy -->
-
 ## Key expertise
 
-*   Product, Service, and Business Design
-*   Problem Framing and Hypothesis validation
-*   Design Sprint / Design Thinking workshops facilitation
-*   User Research (qualitative and quantitative)
-*   Product Management and Strategy
+* Product, Service, and Business Design
+* Problem Framing and Hypothesis validation
+* Design Sprint / Design Thinking workshops facilitation
+* User Research (qualitative and quantitative)
+* Product Management and Strategy
 
 ## Experience
 
-<!-- ### [Altalingua](https://www.linkedin.com/company/altalingua-world/) • Product Manager • [09/2020 – 11/2020]
-##### Translation service
+<!-- ### Product Manager -->
+### [Altalingua](https://www.linkedin.com/company/altalingua-world/)   
 
-*   Used Design Thinking methods to help the team identify opportunities for  translation process improvement
-*   Designed user interface for the MVP
-*   Translated designs into user stories
-*   Supervised the development process -->
+#### Translation startup • Product Management | Contract • 09/2020–12/2020
 
-### [Dive](https://diveee.com/) • Head of Design • [04/2020 – 12/2020]
+Consulted the team to define the product strategy and the MVP; wrote user stories, and assisted with the product development.
 
-#### Live-streaming Platform • Passion economy
+<!-- ### [Altalingua](https://www.linkedin.com/company/altalingua-world/) • Product Manager (Contract, 09/2020 – 12/2020)
 
-Consulted the next generation entertainment platform on user experience design, value proposition and the Product-Market Fit.
+#### Translation startup
 
-<!-- *   Value proposition design
-*   Designing and testing product concepts
-*   Facilitating ideation sessions with stakeholders
-*   Researching and analyzing users' behavior in the context of live streaming -->
+Consulted the team to define the product strategy and the MVP; wrote user stories, and assisted with the product development. -->
 
-### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird) • Sr. Product Designer (Contract) • [12/2018 – 10/2019]
+<!-- ### [Dive](https://diveee.com/) • Head of Design (04/2020 – 12/2020) -->
+### [Dive](https://diveee.com/)
 
-#### Mobility • Fast-scaling operations
+#### Live-streaming Platform • Product–Market Fit | Contract • 04/2020–Present
 
-Conceptualized and owned design of ops products for one of the fastest-growing e-scooter startups in Europe and UAE.
+Consulting the next-gen entertainment platform on the value proposition, the Product-Market Fit, and user experience design.
 
-*  Designed digital solutions that helped the company grow from an early stage to fast-scaling operations serving customers from 14 countries in 40 cities
-*   Pioneered the concept and design of an automated task assignment and route planning solution that minimized the human factor, increased operations efficiency, and improved unit economics
-*   Planned and ran a workshop for C-Level executives and strategic partners to plan a pilot service for new e-scooter models with swappable batteries
-*   Conducted field research as a part of continuous product improvement and discovery to follow-up with fast-changing operations
+<!-- ### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird) • Sr. Product Designer (Contract, 12/2018 – 10/2019) -->
+### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird)
 
-### [Design Sprint Academy](https://designsprint.academy) • Workshop Facilitator • [09/2018]
+#### Mobility • Fast-scaling operations | Contract • 12/2018–10/2019
 
-#### Management Consulting
+Drove product design, discovery, and vision across multiple teams and platforms during the hyper-growth of Europe's leading e-scooter startup (Bird acquired Circ in January 2020.)
 
-Supported the organization and facilitation of a 2-days workshop for a Fortune 500 client
+* Conceptualized and designed fleet management app that enabled business ops to kickstart new markets and scale to 14 countries and 40 cities
+* Pioneered concept and design for an automated task assignment and route planning that increased operations efficiency
+* Planned and drove a workshop for C-Level executives and strategic partners to plan a pilot service for new e-scooter models with swappable batteries
+* Conducted field research as a part of continuous product discovery to keep up with fast-scaling operations and evolving needs
 
-### [Quandoo](https://www.linkedin.com/company/quandoo/) • Sr. Product Designer (Contract) • [02/2018 - 08/2018]
+<!-- ### [Design Sprint Academy](https://designsprint.academy) • Workshop Facilitator (Contract, 09/2018) -->
+### [Design Sprint Academy](https://designsprint.academy)
 
-#### Restaurant tech • Payment Innovation
+#### Management Consulting • Facilitation | Contract • 09/2018
+
+Supported the organization and co-facilitated a 2-days workshop for a Fortune 500 client.
+
+<!-- ### [Quandoo](https://www.linkedin.com/company/quandoo/) • Sr. Product Designer (Contract, 02/2018 - 08/2018) -->
+### [Quandoo](https://www.linkedin.com/company/quandoo/)
+
+#### Restaurant tech • Payment Innovation | Contract • 02/2018-08/2018
 
 Led research, defined and established design for an innovative payment solution in restaurants.
 
-*   Directed foundational research to collect insights into human behavior and needs related to payment
-*   Analyzed and synthesized research data to design value proposition for each customer segment
-*   Planned and facilitated a Design Sprint to create and validate new payment service
-*  Provided UX support during the development of an MVP
-*  Ran numerous Design Sprints for different initiatives
+* Directed foundational research to collect insights into human behavior and needs related to payment
+* Analyzed and synthesized research data to design value proposition for each customer segment
+* Planned and facilitated a Design Sprint to create and validate new payment service
+* Provided UX support during the development of an MVP
+* Ran numerous Design Sprints for different initiatives
 
-### [Lykon](https://www.linkedin.com/company/lykon/) • User Experience Designer (Contract) • [04/2017 – 01/2018]
+<!-- ### [Lykon](https://www.linkedin.com/company/lykon/) • User Experience Designer (Contract, 04/2017 – 01/2018) -->
+### [Lykon](https://www.linkedin.com/company/lykon/)
 
-#### HealthTech
+#### HealthTech • UX | Contract • 04/2017–01/2018
 
-Designed an onboarding and improved user experience of personalized nutrition recommendations based on blood and DNA tests
+Designed onboarding and improved the user experience for a product that provides personalized nutrition recommendations based on blood and DNA tests.
 
-*   Designed onboarding experience that allowed users to benefit from the product while waiting for test results
-*   Conducted usability tests and user interviews
-*   Designed and tested prototypes
-*   Worked closely with nutrition scientists and copywriters to improve messaging
+* Designed onboarding experience that allowed users to benefit from the product while waiting for test results
+* Conducted usability tests and user interviews
+* Designed and tested prototypes
+* Worked closely with nutrition scientists and copywriters to improve messaging
 
 ### More experience? 💁
 
-*   Freelance UI/UX Designer • Berlin, Germany [2012–2017]
-*   UI/UX Designer at Versio2 • Tallinn, Estonia [2009–2011]
-*   Executive Director, Co-Founder at Skyplex International • Tallinn, Estonia [2007–2009]
-*   Art Director, Co-Founder at Mediaworks • Tallinn, Estonia [2006–2010]
-*   Web Designer at Custom Media Agency (CMA) • Tallinn, Estonia [2004–2006]
+* Freelance UI/UX Designer • Berlin, Germany [2012–2017]
+* UI/UX Designer at Versio2 • Tallinn, Estonia [2009–2011]
+* Executive Director, Co-Founder at Skyplex International • Tallinn, Estonia [2007–2009]
+* Art Director, Co-Founder at Mediaworks • Tallinn, Estonia [2006–2010]
+* Web Designer at Custom Media Agency (CMA) • Tallinn, Estonia [2004–2006]
 
 ## Methods and Frameworks
 
-*   Jobs To Be Done
-*   Design Sprint
-*   User Interviews
-*   User Journey Mapping
-*   Rapid Prototyping
-*   Business Model Canvas
+* Jobs To Be Done
+* Design Sprint
+* User Interviews
+* User Journey Mapping
+* Rapid Prototyping
+* Business Model Canvas
 
 ## Staying In Shape
 
-*   **User Experience and Design Thinking Mentor** for [Project 327](https://devpost.com/software/project-327) team at [#VersusVirus](https://www.versusvirus.ch/april-hackathon) Hackathon, April 2020
-*  **Design Process Facilitator** for [SimSim Project](https://devpost.com/software/door-opening-project) team at [#CodeVsCovid19](https://www.codevscovid19.org/) HackZurich Hackathon, March 2020
-*   [Participant](https://www.smartcertificate.com/SmartDiploma/Default.aspx?OtPHtMo%2bNHRww0RLiKM9p0j%2fZOr3QBTtQYJ1UUtVyPsG78fBN5n8Xudd%2fkYitHlf) of the **Business Model Design Masterclass** by Alexander Osterwalder (Strategyzer), August 2018
-*   Product Design Course – Udacity, July 2018
-*   Participant of the **Design Sprints Facilitation Workshop** by inVision and Desing Sprint Academy, April 2018
-*   Participant of the **Service Design Workshop** by Global Service Jam, March 2018
+* Workshop participant • **Integrating JTBD Into Your Workflow** by Jim Kalbach, Jan 2021
+* User Experience and Design Thinking Mentor at **[#VersusVirus](https://www.versusvirus.ch/april-hackathon) Hackathon**, Apr 2020
+* Design Process Facilitator for [SimSim Project](https://devpost.com/software/door-opening-project) at **[#CodeVsCovid19](https://www.codevscovid19.org/) HackZurich Hackathon**, Mar 2020
+* [Workshop participant](https://www.smartcertificate.com/SmartDiploma/Default.aspx?OtPHtMo%2bNHRww0RLiKM9p0j%2fZOr3QBTtQYJ1UUtVyPsG78fBN5n8Xudd%2fkYitHlf) • **Business Model Design Masterclass** by Alexander Osterwalder (Strategyzer), Aug 2018
+* Workshop participant • **Design Sprints Facilitation** by inVision and Desing Sprint Academy, Apr 2018
+* Workshop participant • **Service Design Workshop** by Global Service Jam, Mar 2018
