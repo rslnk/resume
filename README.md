@@ -25,30 +25,22 @@ User Experience and Strategic Design consultant (ex [Circ](https://www.linkedin.
 
 ## Experience
 
-<!-- ### Product Manager -->
-### [Altalingua](https://www.linkedin.com/company/altalingua-world/)   
 
-#### Translation startup • Product Management | Contract • 09/2020–12/2020
-
-Consulted the team to define the product strategy and the MVP; wrote user stories, and assisted with the product development.
-
-<!-- ### [Altalingua](https://www.linkedin.com/company/altalingua-world/) • Product Manager (Contract, 09/2020 – 12/2020)
+### [Altalingua](https://www.linkedin.com/company/altalingua-world/) • Product Manager (Contract, 09/2020 – 12/2020)
 
 #### Translation startup
 
-Consulted the team to define the product strategy and the MVP; wrote user stories, and assisted with the product development. -->
+Consulted the team to define the product strategy and the MVP; wrote user stories, and assisted with the product development.
 
-<!-- ### [Dive](https://diveee.com/) • Head of Design (04/2020 – 12/2020) -->
-### [Dive](https://diveee.com/)
+### [Dive](https://diveee.com/) • Head of Design (04/2020 – 12/2020)
 
-#### Live-streaming Platform • Product–Market Fit | Contract • 04/2020–Present
+#### Live-streaming Platform • Product–Market Fit
 
 Consulting the next-gen entertainment platform on the value proposition, the Product-Market Fit, and user experience design.
 
-<!-- ### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird) • Sr. Product Designer (Contract, 12/2018 – 10/2019) -->
-### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird)
+### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird) • Sr. Product Designer (Contract, 12/2018 – 10/2019)
 
-#### Mobility • Fast-scaling operations | Contract • 12/2018–10/2019
+#### Mobility • Fast-scaling operations
 
 Drove product design, discovery, and vision across multiple teams and platforms during the hyper-growth of Europe's leading e-scooter startup (Bird acquired Circ in January 2020.)
 
@@ -57,17 +49,15 @@ Drove product design, discovery, and vision across multiple teams and platforms 
 * Planned and drove a workshop for C-Level executives and strategic partners to plan a pilot service for new e-scooter models with swappable batteries
 * Conducted field research as a part of continuous product discovery to keep up with fast-scaling operations and evolving needs
 
-<!-- ### [Design Sprint Academy](https://designsprint.academy) • Workshop Facilitator (Contract, 09/2018) -->
-### [Design Sprint Academy](https://designsprint.academy)
+### [Design Sprint Academy](https://designsprint.academy) • Workshop Facilitator (Contract, 09/2018)
 
-#### Management Consulting • Facilitation | Contract • 09/2018
+#### Management Consulting • Facilitation
 
 Supported the organization and co-facilitated a 2-days workshop for a Fortune 500 client.
 
-<!-- ### [Quandoo](https://www.linkedin.com/company/quandoo/) • Sr. Product Designer (Contract, 02/2018 - 08/2018) -->
-### [Quandoo](https://www.linkedin.com/company/quandoo/)
+### [Quandoo](https://www.linkedin.com/company/quandoo/) • Sr. Product Designer (Contract, 02/2018 - 08/2018)
 
-#### Restaurant tech • Payment Innovation | Contract • 02/2018-08/2018
+#### Restaurant tech • Payment Innovation
 
 Led research, defined and established design for an innovative payment solution in restaurants.
 
@@ -77,10 +67,9 @@ Led research, defined and established design for an innovative payment solution 
 * Provided UX support during the development of an MVP
 * Ran numerous Design Sprints for different initiatives
 
-<!-- ### [Lykon](https://www.linkedin.com/company/lykon/) • User Experience Designer (Contract, 04/2017 – 01/2018) -->
-### [Lykon](https://www.linkedin.com/company/lykon/)
+### [Lykon](https://www.linkedin.com/company/lykon/) • User Experience Designer (Contract, 04/2017 – 01/2018)
 
-#### HealthTech • UX | Contract • 04/2017–01/2018
+#### HealthTech
 
 Designed onboarding and improved the user experience for a product that provides personalized nutrition recommendations based on blood and DNA tests.
 
