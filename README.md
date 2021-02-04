@@ -4,7 +4,7 @@
 
 ##### Is your team solving the right challenge? ⛵
 
-User Experience and Strategic Design consultant (ex [Circ](https://www.linkedin.com/company/wecirc), ex [Quandoo](https://www.linkedin.com/company/quandoo/)) who helps organizations innovate by employing user-centric design methods and bridging business, technology, and design.
+Experience designer and strategic design consultant (ex [Circ](https://www.linkedin.com/company/wecirc), ex [Quandoo](https://www.linkedin.com/company/quandoo/)). I help organizations innovate by employing user-centric design methods and bridging business, technology, and design.
 
 > Ruslan helps teams focus on the right problems so they can build better products and scale the business faster. – [Gonzalo Arenas](https://www.linkedin.com/in/gonzaloarenas/), Head of Global Operations at Circ
 
@@ -18,9 +18,10 @@ User Experience and Strategic Design consultant (ex [Circ](https://www.linkedin.
 ## Key expertise
 
 * Product, Service, and Business Design
-* Problem Framing and Hypothesis validation
-* Design Sprint / Design Thinking workshops facilitation
+* Problem Framing
+* Design Sprint facilitation
 * User Research (qualitative and quantitative)
+* Prototype and MVP validation
 * Product Management and Strategy
 
 ## Experience
@@ -29,7 +30,7 @@ User Experience and Strategic Design consultant (ex [Circ](https://www.linkedin.
 
 #### Translation startup • Product Management | Contract • 09/2020–12/2020
 
-Consulted the team to define the product strategy and the MVP; wrote user stories, and assisted with the product development.
+Consulted the team to define the product strategy and the MVP; wrote and mapped user stories, assisted with the product development.
 
 ### [Dive](https://diveee.com/)
 
@@ -43,10 +44,11 @@ Consulting the next-gen entertainment platform on the value proposition, the Pro
 
 Drove product design, discovery, and vision across multiple teams and platforms during the hyper-growth of Europe's leading e-scooter startup (Bird acquired Circ in January 2020.)
 
-* Conceptualized and designed fleet management app that enabled business ops to kickstart new markets and scale to 14 countries and 40 cities
-* Pioneered concept and design for an automated task assignment and route planning that increased operations efficiency
-* Planned and drove a workshop for C-Level executives and strategic partners to plan a pilot service for new e-scooter models with swappable batteries
-* Conducted field research as a part of continuous product discovery to keep up with fast-scaling operations and evolving needs
+* Designed fleet management app that helped scale operations in 40+ cities in 14 countries
+* Pioneered concept and prototyped an automated task assignment with route planning for fleet operations
+* Facilitated workshops and meetings for product discovery and stakeholders alignment
+* Facilitated a workshop to help the executive team and partners align on battery swapping service for the new scooter model
+* Conducted field research and interviewed customers as a part of continuous product discovery
 
 ### [Design Sprint Academy](https://designsprint.academy)
 
@@ -60,10 +62,10 @@ Supported the organization and co-facilitated a 2-days workshop for a Fortune 50
 
 Led research, defined and established design for an innovative payment solution in restaurants.
 
-* Directed foundational research to collect insights into human behavior and needs related to payment
+* Led foundational research to collect insights into human behavior and needs related to payment
 * Analyzed and synthesized research data to design value proposition for each customer segment
-* Planned and facilitated a Design Sprint to create and validate new payment service
-* Provided UX support during the development of an MVP
+* Planned and facilitated a Design Sprint to validate new payment service
+* Prototyped MVP for validation
 * Ran numerous Design Sprints for different initiatives
 
 ### [Lykon](https://www.linkedin.com/company/lykon/)
@@ -88,10 +90,9 @@ Designed onboarding and improved the user experience for a product that provides
 ## Methods and Frameworks
 
 * Jobs To Be Done
+* Customer Journey Mapping
 * Design Sprint
 * User Interviews
-* User Journey Mapping
-* Rapid Prototyping
 * Business Model Canvas
 
 ## Staying In Shape
