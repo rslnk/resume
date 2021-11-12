@@ -45,7 +45,7 @@ Helped to define and managed the development of the MVP.
 
 As a UX Lead I helped an early-stage startup to design their value proposition and find product-market fit; guided junior designers.
 
-### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird)
+### [Circ](https://www.linkedin.com/company/wecirc/) (acq by Bird)
 
 #### Mobility • Fast-scaling operations | Contract • 12/2018–10/2019
 
