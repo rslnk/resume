@@ -8,7 +8,7 @@ I help organizations focus on the right problems and build better products and s
 
 > Ruslan helps teams focus on the right problems so they can build better products and scale the business faster. – [Gonzalo Arenas](https://www.linkedin.com/in/gonzaloarenas/), Head of Global Operations at Circ
 
-> I have worked with Ruslan on two occasions, both high stakes projects. Strong work ethic and an amazing capacity for analysis and synthesis. He'd bring a lot of value to any organization. – [John Vetan](https://www.linkedin.com/in/johnvetan/), CEO at Design Sprint Academy
+> I have worked with Ruslan on several occasions, both high stakes projects. Strong work ethic and an amazing capacity for analysis and synthesis. He'd bring a lot of value to any organization. – [John Vetan](https://www.linkedin.com/in/johnvetan/), CEO at Design Sprint Academy
 
 📞 +49 1525 5709103   
 ✉️  ruslan@komyakov.me  
@@ -26,7 +26,7 @@ I help organizations focus on the right problems and build better products and s
 
 ### [Design Sprint Academy](https://designsprint.academy/)
 
-#### Management Consulting • Facilitation | Contract • 09/2018–Present
+#### Management Consulting • Facilitation | Contract • 09/2018–06/2021
 
 * Helped with enablement of SAP in-house Design Sprint teams (2021)
 * Co-designed remote workshops (2021)
@@ -35,7 +35,7 @@ I help organizations focus on the right problems and build better products and s
 
 ### Altalingua
 
-#### Translation startup • Product Management | Contract • 09/2020–12/2020
+#### Translation service • Product Management | Contract • 09/2020–12/2020
 
 Helped to define and managed the development of the MVP.
 
