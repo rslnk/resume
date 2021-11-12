@@ -1,10 +1,10 @@
-![profile picture](https://static1.squarespace.com/static/57c8d56429687f78380be96a/t/6001b684de6cf72a3b992fac/1610724996548/profile-picture-400.jpg)
+![profile picture](https://drive.google.com/uc?id=15XErM7Wui193gQ3m61OMr1_pqDnB7P9a)
 
 # Ruslan Komjakov
 
 ##### Is your team solving the right challenge? ⛵
 
-Experience designer and strategic design consultant (ex [Circ](https://www.linkedin.com/company/wecirc), ex [Quandoo](https://www.linkedin.com/company/quandoo/)). I help organizations innovate by employing user-centric design methods and bridging business, technology, and design.
+I help organizations focus on the right problems and build better products and services for their customers.
 
 > Ruslan helps teams focus on the right problems so they can build better products and scale the business faster. – [Gonzalo Arenas](https://www.linkedin.com/in/gonzaloarenas/), Head of Global Operations at Circ
 
@@ -13,7 +13,6 @@ Experience designer and strategic design consultant (ex [Circ](https://www.linke
 📞 +49 1525 5709103   
 ✉️  ruslan@komyakov.me  
 🔗 [View my Linkedin](https://www.linkedin.com/in/ruslankomjakov)   
-📅 [Schedule time with me](https://calendly.com/ruslankomjakov/interview)
 
 ## Key expertise
 
@@ -27,33 +26,36 @@ Experience designer and strategic design consultant (ex [Circ](https://www.linke
 
 ### [Design Sprint Academy](https://designsprint.academy/)
 
-#### Innovation and change management •  | Contract • 04/2021–Present
+#### Management Consulting • Facilitation | Contract • 09/2018–Present
 
-Helped an early-stage startup to design their value proposition and find product-market fit; guided junior designers.
+* Helped with enablement of SAP in-house Design Sprint teams (2021)
+* Co-designed remote workshops (2021)
+* Defined personas and mapped extensive customer journeys for various projects and workshops (2021)
+* Co-facilitated a 2-days change management workshop for a Fortune 500 client (2018)
+
+### Altalingua
+
+#### Translation startup • Product Management | Contract • 09/2020–12/2020
+
+Helped to define and managed the development of the MVP.
 
 ### [Dive](https://diveee.com/)
 
 #### Live-streaming Platform • Product–Market Fit | Contract • 04/2020–Present
 
-Helped an early-stage startup to design their value proposition and find product-market fit; guided junior designers.
+As a UX Lead I helped an early-stage startup to design their value proposition and find product-market fit; guided junior designers.
 
 ### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird)
 
 #### Mobility • Fast-scaling operations | Contract • 12/2018–10/2019
 
-Drove product design, discovery, and vision across multiple teams and platforms during the hyper-growth of Europe's leading e-scooter startup (Bird acquired Circ in January 2020.)
+Drove product design, discovery, and vision across multiple teams and platforms during the hyper-growth of a leading e-scooter startup (Bird acquired Circ in January 2020.)
 
 * Designed fleet management app that helped scale operations in 40+ cities in 14 countries
 * Pioneered concept and prototyped an automated task assignment with route planning for fleet operations
 * Facilitated workshops and meetings for product discovery and stakeholders alignment
 * Facilitated a workshop to help the executive team and partners align on battery swapping service for the new scooter model
 * Conducted field research and interviewed customers as a part of continuous product discovery
-
-### [Design Sprint Academy](https://designsprint.academy)
-
-#### Management Consulting • Facilitation | Contract • 09/2018
-
-Supported the organization and co-facilitated a 2-days workshop for a Fortune 500 client.
 
 ### [Quandoo](https://www.linkedin.com/company/quandoo/)
 
