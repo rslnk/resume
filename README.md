@@ -17,26 +17,25 @@ Experience designer and strategic design consultant (ex [Circ](https://www.linke
 
 ## Key expertise
 
-* Product, Service, and Business Design
-* Problem Framing
-* Design Sprint facilitation
-* User Research (qualitative and quantitative)
-* Prototype and MVP validation
-* Product Management and Strategy
+* UX Strategy  
+* Product Design
+* Service Design
+* User Research
+* Workshop Facilitation
 
 ## Experience
 
-### [Altalingua](https://www.linkedin.com/company/altalingua-world/)   
+### [Design Sprint Academy](https://designsprint.academy/)
 
-#### Translation startup • Product Management | Contract • 09/2020–12/2020
+#### Innovation and change management •  | Contract • 04/2021–Present
 
-Consulted the team to define the product strategy and the MVP; wrote and mapped user stories, assisted with the product development.
+Helped an early-stage startup to design their value proposition and find product-market fit; guided junior designers.
 
 ### [Dive](https://diveee.com/)
 
 #### Live-streaming Platform • Product–Market Fit | Contract • 04/2020–Present
 
-Consulting the next-gen entertainment platform on the value proposition, the Product-Market Fit, and user experience design.
+Helped an early-stage startup to design their value proposition and find product-market fit; guided junior designers.
 
 ### [Circ](https://www.linkedin.com/company/wecirc) (acq by Bird)
 
@@ -60,30 +59,29 @@ Supported the organization and co-facilitated a 2-days workshop for a Fortune 50
 
 #### Restaurant tech • Payment Innovation | Contract • 02/2018-08/2018
 
-Led research, defined and established design for an innovative payment solution in restaurants.
+Drove the design of the MVP for a new payment solution in restaurants.
 
-* Led foundational research to collect insights into human behavior and needs related to payment
-* Analyzed and synthesized research data to design value proposition for each customer segment
-* Planned and facilitated a Design Sprint to validate new payment service
-* Prototyped MVP for validation
+* Established and helped to execute a foundational research to collect insights into human behavior and needs related to payment
+* Analyzed and synthesized research data to design value proposition for B2C and B2B customer segments
+* Prepared and facilitated a Design Sprint workshop to align the team and to validate the concept
+* Prototyped and helped to define the MVP
 * Ran numerous Design Sprints for different initiatives
 
 ### [Lykon](https://www.linkedin.com/company/lykon/)
 
 #### HealthTech • UX | Contract • 04/2017–01/2018
 
-Designed onboarding and improved the user experience for a product that provides personalized nutrition recommendations based on blood and DNA tests.
+Improved overall user experience for a product that provides personalized nutrition recommendations based on customers' blood and DNA test.
 
-* Designed onboarding experience that allowed users to benefit from the product while waiting for test results
+* Designed user onboarding experience
+* Built and tested prototypes
 * Conducted usability tests and user interviews
-* Designed and tested prototypes
-* Worked closely with nutrition scientists and copywriters to improve messaging
+* Worked closely with a PO, engineers, nutrition scientists, and copywriters
 
 ### More experience? 💁
 
-* Freelance UI/UX Designer • Berlin, Germany [2012–2017]
-* UI/UX Designer at Versio2 • Tallinn, Estonia [2009–2011]
-* Executive Director, Co-Founder at Skyplex International • Tallinn, Estonia [2007–2009]
+* Freelance UX/UI Designer • Berlin, Germany [2012–2017]
+* UX/UI Designer at Versio2 • Tallinn, Estonia [2009–2011]
 * Art Director, Co-Founder at Mediaworks • Tallinn, Estonia [2006–2010]
 * Web Designer at Custom Media Agency (CMA) • Tallinn, Estonia [2004–2006]
 
@@ -91,9 +89,10 @@ Designed onboarding and improved the user experience for a product that provides
 
 * Jobs To Be Done
 * Customer Journey Mapping
-* Design Sprint
+* Design Sprint Facilitation
 * User Interviews
-* Business Model Canvas
+* Problem Framing and stakeholders alignment workshops
+* Prototype, MVP, and hypothesis validation
 
 ## Staying In Shape
 
